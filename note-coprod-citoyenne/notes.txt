@@ -1,0 +1,43 @@
+
+TITRE:
+	- pour le moment j'ai pris "Coproduction citoyenne: De l'idée à la loi", je me demande s'il ne
+	  faudrait pas plutôt dire "de l'idée à l'action" histoire de ne pas nécessairement orienter ça
+	  sur le pur législatif directement — ça peut froisser et ça n'est pas le seul résultat possible. 
+
+	- Autre petit problème: le format des notes Fondapol ne se prête pas très bien aux sous-titres, 
+	  donc si on arrivait à le contourner ici ça serait peut-être bien. Ceci dit, j'aime plutôt bien
+	  et on peut raffiner.
+
+STRUCTURE:
+	- je pense qu'il faut expliquer le fonctionnement de la normalisation ouverte, mais sans rentrer
+	  dans les détails techniques de l'implémentation. Il faut trouver des métaphores un peu plus
+	  abstraites?
+
+	- la taille visée est de 50k signes; pour référence mes deux premiers blogs sur le sujet font chacun
+	  ~21k signes/3500 mots, donc au total ce n'est pas si long que ça. On vise donc dans les 8-9000 mots.
+
+SOURCES DIVERSES:
+	- "La transparence est la nouvelle objectivité", 
+	  cf http://pisani.blog.lemonde.fr/2009/08/18/la-transparence-est-la-nouvelle-objectivite/
+
+IDÉES:
+	- les tentatives proches de cette idée (CooPol, CDP) partent toutes d'une base de réseau social généraliste
+	  (typiquement, Facebook). Si ceux-ci ont certes un intérêt et peuvent servir à promouvoir un lien plus
+	  fort entre sympathisants, et s'ils sont utilisés commercialement, il ne servent pas à travailler, à
+	  produire. Plutôt que de partir de l'idée de réseau de participants qui communiquent entre eux, l'approche
+	  que nous préconisons se centre sur l'élaboration de documents, lesquels servent "d'attracteurs"* autour
+	  desquels des groupes se forment spontanément par intérêt pour le sujet.
+	  * C'est français "attracteurs"? Je pensais au "strange attractors".
+
+PILOTE:
+	- il faut réfléchir à un projet pilote pour tester la méthode, toutes les suggestions sont les bienvenues
+	
+	- La Notation Des Lois; comment noter une loi, un projet/une proposition de loi, pour mieux informer les
+	  citoyens sur le travail législatif, éviter les dérive fait-diveristes, et peut-être ralentir la cadence
+	  infernale de l'Assemblée.
+	  -> efforts similaires pour noter les standards (ICTStandards, josema connait)
+	  -> c'est un sujet qui m'intéresse beaucoup donc je le note, mais le risque de rebrousse-poil 
+	     contre-productif est grand
+
+
+
