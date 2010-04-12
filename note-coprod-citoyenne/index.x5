@@ -43,11 +43,37 @@
       </section>
       <section>
         <h2>Problématique de la coproduction politique</h2>
+        <p>
+          Les partis politiques sont les instances traditionnelles de l'organisation de la vie
+          démocratique. Cette place s'est construite naturellement pour faire face aux difficultés
+          qu'il y a à coordonner une action sur une zone géographique étendue, à rendre possible
+          la communication entre plusieurs milliers de militants, et à s'adresser à plusieurs millions 
+          d'électeurs.
+        </p>
+        <p>
+          La généralisation progressive des outils sociaux fonctionnant sur Internet depuis les listes
+          de diffusion électronique au cours de la décennie 1970 jusqu'à Twitter aujourd'hui fait progresser
+          cet état de choses en levant les obstacles à la communication et à la coordination. S'il n'y a
+          pas lieu de parler d'une éventuelle disparition des partis politiques — ne serait-ce que
+          du fait de leurs capacités logistiques de campagne — la question se pose néanmoins de savoir
+          comment la vie démocratique peut se réorganiser autour de ces nouvelles pratiques pour ce qui
+          concerne les propositions et les actions politiques, ainsi que de distinguer quels éléments de
+          cette réorganisation sont appelés à s'opérer à l'intérieur des partis et lesquels trouveront
+          plus facilement leur place en dehors de ceux-ci.
+        </p>
         <!-- 
+          # partis comme lieu traditionnel de la participation au politique
+          # arrivée sur scène de nouveaux modes participatifs
+          # description brève des nouveaux modes
+          # la coproduction ailleurs
+          # tentatives de coproduction politique et leurs erreurs
+          
+        
           - barrières à la participation dans les partis
             . les personnes voulant contribuer à la politique sont un groupe latent qui doit être activé
             . tendance à des approches "issues-based" qui ne se retrouvent pas bien dans le cadre d'un
               parti
+            . ces éléments sont ce qui fait la valeur d'une approche non partisane.
           - bref tour d'horizon des solutions proposées
           - problèmes constatés sur l'existant
             . plus axés sur le réseau que sur la production, la promesse ne devrait pas être de se faire
@@ -69,6 +95,8 @@
           optique partisane et était mieux placée dans un contexte locale, par exemple en faisant
           que chaque initiative soit liée à un échelon territorial le plus local possible. Ce pourrait
           être un outil utile par exemple pour faire remonter des doléances communales.
+          -> la tension intérieur du parti/nouvelles modalités contribue probablement à l'échec
+             relatif de cette tentative
 
           Groupe latent:
           "Social tools don’t create collective action—they merely remove the obstacles to it."
@@ -91,6 +119,12 @@
         </p>
         <section>
           <h2>Wikipedia</h2>
+          <p>
+            En lisant les articles de Wikipedia, la plupart des utilisateurs pensent probablement qu'ils
+            constituent le plus gros du contenu du site; et en cliquant sur "modifier", beaucoup pensent
+            probablement qu'ils accèdent au niveau le plus profond de ce système. Ces impressions sont
+            fausses.
+          </p>
           <!-- 
             . explication du fonctionnement
             . bureaucratie produisant du contenu
@@ -120,9 +154,6 @@
                  "Wikipedia, which looks like a reference work to the average viewer, is in fact a 
                   bureaucracy mainly given over to arguing."
           -->
-          <p>
-
-          </p>
         </section>
         <section>
           <h2>W3C</h2>
@@ -134,6 +165,8 @@
             . processus plus lourd pour cause d'intérêts commerciaux directs
             . ouvert, mais peut l'être plus
             . l'ancienneté donne une influence parfois indue
+            
+            - on devrait probablement dire quelque chose sur l'IETF ici
           -->
           <p>
 
@@ -150,6 +183,8 @@
               car celle-ci sera employée même si de façon non-contraignante pour axer les conversations
             . certains outils sont nécessaires
 
+            Dan Bricklin (Cornucopia of the Commons, http://www.bricklin.com/cornucopia.htm) on how to
+            get volunteers through an architecture of participation
 
             Ne pas citer ça, mais réutiliser la même idée de base:
               "Wikis take on one of the most basic questions of political philosophy: 
@@ -212,6 +247,9 @@
   </body>
 
   <!--
+    Hume, On Parties In General
+    http://www.econlib.org/library/LFBooks/Hume/hmMPL8.html
+  
     CITATIONS
 
       "Relationships between even two people who live or work together is far too complex to allow 

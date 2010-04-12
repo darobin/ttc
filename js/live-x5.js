@@ -18,8 +18,9 @@
         wcount:    function () {
             var txt = $("body")[0].textContent.replace(/\s+/g, " ");
             var signs = txt.length;
+            var perc = (signs / 500).toFixed(2);
             var words = txt.split(" ").length;
-            $("<div id='wcount'>" + signs + "/" + words + "</div>").appendTo($("article"));
+            $("<div id='wcount'>" + signs + "/" + words + " (" + perc + "%)</div>").appendTo($("article"));
         },
     };
     
