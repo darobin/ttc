@@ -20,6 +20,11 @@ SOURCES DIVERSES:
 	- "La transparence est la nouvelle objectivité", 
 	  cf http://pisani.blog.lemonde.fr/2009/08/18/la-transparence-est-la-nouvelle-objectivite/
 
+	- http://www.agora-parl.org/
+	
+	- http://www.newyorker.com/arts/critics/books/2010/03/22/100322crbo_books_kolbert
+	  "Research shows that people who participate in political activities such as voting are happier than those who don’t."
+
 IDÉES:
 	- les tentatives proches de cette idée (CooPol, CDP) partent toutes d'une base de réseau social généraliste
 	  (typiquement, Facebook). Si ceux-ci ont certes un intérêt et peuvent servir à promouvoir un lien plus

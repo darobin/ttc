@@ -1,0 +1,48 @@
+
+/*
+    XXX TODO
+    - need a print stylesheet or this will look like shite
+*/
+
+
+html, body {
+    margin: 0;
+    padding:    0;
+    background: #988;
+    font-family:    Optima, Helvetica, sans-serif;
+    font-size:    0.9em;
+}
+
+article {
+    display:    block;
+    position:   relative;
+    background: #fff;
+    color:      #000;
+    margin: 2em auto;
+    border: 1px solid #000;
+    width:  13.5cm;
+    padding:    2cm; /* added to the above... */
+    -moz-box-shadow:    2px 2px 1px #000;
+}
+
+h1 {
+    font-family:    Futura, sans-serif;
+    text-transform: uppercase;
+}
+
+section section h2 {
+    font-size:  1.2em;
+    font-style: italic;
+}
+
+p, dd {
+    text-align: justify;
+}
+
+#wcount {
+    position:   absolute;
+    color:  #ccc;
+    font-size:  0.9em;
+    top:    1em;
+    right:  1em;
+}

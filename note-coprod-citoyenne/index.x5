@@ -3,10 +3,227 @@
   <head>
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
     <title>Coproduction citoyenne: De l'idée à la loi</title>
+    <script src='../js/jquery-1.4.1.min.js' type='text/javascript' charset='utf-8' class='remove'></script>
+    <script src='../js/live-x5.js' type='text/javascript' charset='utf-8' class='remove'></script>
   </head>
   <body>
-    
+    <article>
+      <section>
+        <h2>Introduction</h2>
+        <!-- 
+          - à rédiger à la fin
+          - qu'est-ce que la coproduction citoyenne, quels sont ses buts?
+
+
+          "Now that it is possible to achieve large-scale coordination at low cost, a third category
+           has emerged: serious, complex work, taken on without institutional direction. Loosely 
+           coordinated groups can now achieve things that were previously out of reach for any 
+           other organizational structure, because they lay under the Coasean floor. The cost of 
+           all kinds of group activity—sharing, cooperation, and collective action—have fallen so 
+           far so fast that activities previously hidden beneath that floor are now coming to light. 
+           We didn’t notice how many things were under that floor because, prior to the current era, 
+           the alternative to institutional action was usually no action. Social tools provide a 
+           third alternative: action by loosely structured groups, operating without managerial 
+           direction and outside the profit motive."
+              —— Here Comes Everybody (Clay Shirky) Loc. 629-36
+
+          La question suivante est au cœur du problème ici, suivie de "quelle application politique 
+          peut-on en tirer?"
+          "The transition can be described in basic outline as the answer to two questions: Why has 
+           group action largely been limited to formal organizations? What is happening now to change that?"
+              —— Here Comes Everybody (Clay Shirky) Loc. 650-51
+
+          The essential advantage created by new social tools has been labeled “ridiculously easy group-forming” 
+          by the social scientist Seb Paquet. [where?]
+
+        -->
+        <p>
+          
+        </p>
+      </section>
+      <section>
+        <h2>Problématique de la coproduction politique</h2>
+        <!-- 
+          - barrières à la participation dans les partis
+            . les personnes voulant contribuer à la politique sont un groupe latent qui doit être activé
+            . tendance à des approches "issues-based" qui ne se retrouvent pas bien dans le cadre d'un
+              parti
+          - bref tour d'horizon des solutions proposées
+          - problèmes constatés sur l'existant
+            . plus axés sur le réseau que sur la production, la promesse ne devrait pas être de se faire
+              des amis mais plutôt de faire évoluer la politique par des contributions
+            . renforcent les structures existantes au lieu d'aller vers de nouvelles possibilités
+            . liens aux partis trop forts, ou peu clairs
+
+          La CooPol, dans son incarnation actuelle, est peut-être mal nommée. Ce n'est pas tant une
+          coopérative politique au sens d'un organisme coopératif produisant des solutions, mais
+          plutôt une modernisation du PS permettant de mieux coordonner ses militants et sympathisants
+          dans une optique de logistique de campagne plus flexible grâce à de meilleurs moyens 
+          d'auto-organisation et plus englobante en cela qu'elle facilite les contributions de militants
+          moins engagés. Cette évolution des partis n'est pas concurrente à l'idée d'une coproduction
+          citoyenne mais peut au contraire se révéler son complément en période de campagne.
+          
+          Les CDP sont axés sur des initiatives simples (voire simplistes) plus adaptées à des
+          problématiques locales. Si l'idée n'est pas nécessairement mauvaise, nous nous demandons
+          si cette approche ne serait pas plus heureuse si elle se détachait complètement de toute
+          optique partisane et était mieux placée dans un contexte locale, par exemple en faisant
+          que chaque initiative soit liée à un échelon territorial le plus local possible. Ce pourrait
+          être un outil utile par exemple pour faire remonter des doléances communales.
+
+          Groupe latent:
+          "Social tools don’t create collective action—they merely remove the obstacles to it."
+              Here Comes Everybody (Clay Shirky), Loc. 2053-54
+
+          "How would you locate the organization? How would you contact it? If you requested 
+           literature, how long would it take to arrive, and by the time it got there, would 
+           you still be in the mood? No one of these barriers to action is insurmountable, 
+           but together they subject the desire to act to the death of a thousand cuts."
+              Here Comes Everybody (Clay Shirky) Loc. 1944-46
+        -->
+        <p>
+
+        </p>
+      </section>
+      <section>
+        <h2>Étude de cas de deux systèmes de coproductions réussis</h2>
+        <p>
+
+        </p>
+        <section>
+          <h2>Wikipedia</h2>
+          <!-- 
+            . explication du fonctionnement
+            . bureaucratie produisant du contenu
+            . documents complexes produits
+            MAIS
+            . décrire est plus simple que créer
+            . le volume à produire implique une organisation différente de celle nécessaire pour 
+              produire moins de documents
+
+            All from Here Comes Everybody (Clay Shirky)
+
+              Loc. 1537-38
+                "A Wikipedia article is a process, not a product, and as a result, it is never finished."
+              Loc. 1791-96
+                "Wikipedia is predicated on openness not as a theoretical way of working but as a practical 
+                 one. This pragmatism often comes as a shock to people who hold up Wikipedia as a beacon of 
+                 pure openness, but the curious fact is that many of Wikipedia’s most vociferous boosters actually 
+                 don’t know much about its inner workings and want to regard it, wrongly, as an experiment in 
+                 communal anarchy. The people most enamored of describing Wikipedia as the product of a 
+                 free-form hive mind don’t understand how Wikipedia actually works. It is the product 
+                 not of collectivism but of unending argumentation. The articles grow not from harmonious 
+                 thought but from constant scrutiny and emendation."
+              Loc. 1804
+                "Because Wikipedia is a process, not a product, it replaces guarantees offered by 
+                 institutions with probabilities supported by process:"
+              Loc. 3557
+                 "Wikipedia, which looks like a reference work to the average viewer, is in fact a 
+                  bureaucracy mainly given over to arguing."
+          -->
+          <p>
+
+          </p>
+        </section>
+        <section>
+          <h2>W3C</h2>
+          <!-- 
+            . explication du fonctionnement
+            . consensus industriel sur des contenus complexes créés de toutes pièces
+            . organisation par sujet
+            MAIS
+            . processus plus lourd pour cause d'intérêts commerciaux directs
+            . ouvert, mais peut l'être plus
+            . l'ancienneté donne une influence parfois indue
+          -->
+          <p>
+
+          </p>
+        </section>
+        <section>
+          <h2>Leçons</h2>
+          <!-- 
+            . organisation en groupes par sujet, faire de l'approche "issues-based" une force
+            . légitimité par la contribution
+            . blocage de trolls par la communauté
+            . émergence d'une méritocratie couplée à l'importance vitale des petites contributions
+            . l'importance d'avoir une charte fondamentale guidant l'action de tous (promise+bargain)
+              car celle-ci sera employée même si de façon non-contraignante pour axer les conversations
+            . certains outils sont nécessaires
+
+
+            Ne pas citer ça, mais réutiliser la même idée de base:
+              "Wikis take on one of the most basic questions of political philosophy: 
+               Who will guard the guardians? Their answer is, everyone."
+                  Here Comes Everybody (Clay Shirky) - Highlight Loc. 3463 | Added on Tuesday, April 06, 2010, 09:31 AM
+          -->
+          <p>
+
+          </p>
+        </section>
+      </section>
+      <section>
+        <h2>Proposition d'application au domaine politique</h2>
+        <!-- 
+          - la charte fondamentale
+            . non-partisan mais non-neutre
+            . ouvert à tous
+            . quelques valeurs de base
+          - l'organisation du système
+          - les outils
+            . la prise en compte des petites contributions
+          - l'expérimentation
+          - tenter d'équilibrer les groupes
+          - l'importance du concret: des proposition techniques, chiffrées
+          
+          Un aspect fondamental de la charte est avant tout:
+            "The will to succeed, the grace to compromise."
+                —— One from Many: VISA and the Rise of Chaordic Organization, Dee Hock (Kindle edition location 2336)
+          
+          Il s'agit de créer ce que Tim O’Reilly appelle "an architecture of participation" [find where]
+          
+          Charte fondamentale:
+            "What he did was to work out a message framed in big enough terms to inspire interest, yet achievable 
+             enough to inspire confidence. (This sweet spot is what Eric Raymond, the theorist of open source 
+             software, calls “a plausible promise.”)"
+                Here Comes Everybody (Clay Shirky) Loc. 263-65
+            
+          
+          À propos des outils (pas cité, même idée):
+            "As a result, users of social tools are making two related judgments: Will I like using this tool 
+             or participating in this group? Will enough other people feel as I do to make it take off?"
+                Here Comes Everybody (Clay Shirky) Loc. 3348-49
+            
+        -->
+        <p>
+
+        </p>
+      </section>
+      <section>
+        <h2>Conclusion</h2>
+        <!-- 
+          - plus tard
+          - une conclusion est-elle nécessaire après le plan d'action?
+        -->
+        <p>
+
+        </p>
+      </section>
+    </article>
   </body>
+
+  <!--
+    CITATIONS
+
+      "Relationships between even two people who live or work together is far too complex to allow 
+       agreement much beyond intent, sense of direction, and principles of conduct."
+          —— One from Many: VISA and the Rise of Chaordic Organization (Dee Hock)
+              (Kindle edition location 860-61)
+
+      Here Comes Everybody (Clay Shirky)
+        - The lesson from Manutius’s life is that the future belongs to those who take the present for granted.
+        - Revolution doesn’t happen when society adopts new technologies—it happens when society adopts new behaviors.
+
+  -->
 </html>
 
 
