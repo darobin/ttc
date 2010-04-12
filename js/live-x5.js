@@ -1,8 +1,13 @@
 
+// XXX TODO
+//  fix headers?
+//  toc?
+
 (function ($, GLOBAL) {
     var X5 = function () {};
     X5.prototype = {
         run:    function () {
+            // add CSS and title
             $("head").append($("<link/>", { rel: "stylesheet", media: "all", href: "../css/live-x5.css" }));
             var tits = document.title.split(":");
             $("article").prepend("<h1></h1>")
@@ -10,8 +15,13 @@
                             .append(tits[0] + ":")
                             .append("<br/>")
                             .append(tits[1]);
-            // fix headers?
-            // toc?
+            // make quotes work 
+            var quotes = $("q");
+            quotes.replaceWith(function (idx) {
+                return $("<span class='quote'></span>").html($(quotes[idx]).html());
+            });
+            $(".quote").before("“").after("”");
+            // add word count
             this.wcount();
             $(".remove").remove();
         },

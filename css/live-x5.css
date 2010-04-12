@@ -46,3 +46,7 @@ p, dd {
     top:    1em;
     right:  1em;
 }
+
+.quote {
+    font-style: italic;
+}
