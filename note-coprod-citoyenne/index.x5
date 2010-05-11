@@ -14,6 +14,14 @@
           - à rédiger à la fin
           - qu'est-ce que la coproduction citoyenne, quels sont ses buts?
           - il faut parler du rapport aux partis et à l'existence hors partis
+          - axer une problématique autour de l'idée selon laquelle il y a un mouvement vers l'idée
+            de Open Politics, mais que les modes organisationnels qui ont été proposés pour la soutenir
+            ne sont pas mûrs — nous avons ici une proposition de fonctionnement plus adaptées, basée
+            sur une expérience comparable.
+          - Open Source, Open Content, Open Standards, Open Data — tout s'ouvre au collaboratif, avec succès, 
+            en évoluant l'existant sans le détruire. Qu'en est-il de la politique? Nous regardons ici comment
+            il serait possible de reprendre certaines de ces idées pour la faire avancer.
+            -> une typologie rapide de ces différentes approches serait utile.
 
 
           "Now that it is possible to achieve large-scale coordination at low cost, a third category
@@ -154,6 +162,39 @@
             un outil utile par exemple pour faire remonter des doléances communales.
           </p>
         </section>
+        <section>
+          <h2>Problèmes constatés</h2>
+          <p>
+            Comme l'explique Clay Shirky dans <cite>Here Comes Everybody</cite>, <q>les outils sociaux
+            ne créent pas l'action collective — ils ne font qu'éliminer les obstacles qui l'empêchent</q>
+            (<q>Social tools don’t create collective action — they merely remove the obstacles to it.</q>).
+            Si aucune des offres existantes n'a libéré la coproduction citoyenne, c'est qu'elles n'ont
+            pas su éliminer ces obstacles. Quels sont-ils? Afin de les saisir nous utilisons ici les trois 
+            axes que Clary Shirky dégage comme faisant le succès d'un outil social — la promesse, l'outil, 
+            et le pacte.
+          </p>
+          <dl>
+            <dt>La promesse</dt>
+            <dd>
+              <p>
+                C'est la raison qui amène un utilisateur à vouloir se servir d'un outil social, sachant
+                que cette action lui coûte ne serait-ce que du temps.
+              </p>
+            </dd>
+            <dt>L'outil</dt>
+            <dd>
+              <p>
+                
+              </p>
+            </dd>
+            <dt>Le pacte</dt>
+            <dd>
+              <p>
+                
+              </p>
+            </dd>
+          </dl>
+        </section>
         <!-- 
           - problèmes constatés sur l'existant
             . plus axés sur le réseau que sur la production, la promesse ne devrait pas être de se faire
@@ -171,9 +212,6 @@
            but together they subject the desire to act to the death of a thousand cuts."
               Here Comes Everybody (Clay Shirky) Loc. 1944-46
         -->
-        <p>
-
-        </p>
       </section>
       <section>
         <h2>Étude de cas de deux systèmes de coproductions réussis</h2>
@@ -219,21 +257,168 @@
           -->
         </section>
         <section>
-          <h2>W3C</h2>
+          <h2>La normalisation ouverte: W3C et IETF</h2>
+          <p>
+            La normalisation est un vaste domaine, il existe des normes pour presque tout utilisées
+            presque partout, et il est difficile de trouver un sujet ou une activité qui ne soient
+            pas traités par un organisme de normalisation. S'ils ont en commun de produire des documents
+            souvent complexes, techniques, et précis, les organismes de normalisation se révèlent 
+            extrêmement variés dans leurs modes de fonctionnement. Certains sont nationaux ou issus de 
+            traités internationaux, d'autres sont des groupements privés de sociétés ou de personnes; 
+            certains ont des valeurs spécifiques qu'ils entendent mettre en œuvre au travers de leur 
+            production, d'autres accepteront de publier tout ce que leurs membres décideront de publier; 
+            certains travaillent à la lumière du jour, d'autres dans le plus grand secret; certains 
+            prennent leurs décisions par voie électorale, d'autres par consensus, d'autres encore 
+            ont des niveaux de participation prédéfinis et réservent à un bureau dirigeant le droit 
+            de tout décider.
+          </p>
+          <p>
+            Traiter tous les types de fonctionnement des organismes de normalisation prendrait demanderait
+            un document d'une autre longueur et ne serait pas pertinent au sujet présent. Nous nous
+            pencherons donc ici sur les méthodes déployées dans le cadre de la normalisation “ouverte”.
+            Celle-ci a pour caractéristique principale de faire intervenir le plus possible une vaste
+            communauté volontaire, donc de travailler largement en public, et de résoudre ses désaccords 
+            par voie de consensus. Plus spécifiquement, nous nous basons sur le fonctionnement de deux
+            organismes de normalisation ouverte aux propriétés différentes:
+          </p>
+          <dl>
+            <dt>IETF (Internet Engineering Task Force)</dt>
+            <dd>
+              <p>
+                L'IETF s'occupe des standards propres au réseau Internet, comme par exemple le protocole
+                TCP/IP qui sous-tend les communications du réseau; DNS, qui décrit le système des noms de
+                domaines; les différentes normes qui ensemble font l'email; ou encore le FTP, et beaucoup
+                d'autres technologies moins connues du grand public.
+              </p>
+              <p>
+                Cette organisation n'a pas de membres formels mais est composée intégralement de volontaires
+                (naturellement, nombre d'entre eux sont financés par leurs employeurs pour effectuer ce
+                travail). Fondée en 1986 sous l'égide du gouvernement américain, c'est aujourd'hui une
+                branche de l'Internet Society, organisation à but non-lucratif qui cherche à promouvoir le
+                développement de l'Internet sous toutes ses formes (ils s'occupent aussi entre autres de
+                l'Internet Governance Forum).
+              </p>
+            </dd>
+            <dt>W3C (World Wide Web Consortium)</dt>
+            <dd>
+              <p>
+                Le W3C s'applique à définir les normes propres au Web, dont notamment HTML qui est le 
+                langage des pages; HTTP, le protocole qui permet aux navigateurs d'obtenir les informations
+                désirées par leurs utilisateurs; et bien d'autres technologies (CSS, SVG, PNG, DOM, XML, etc.)
+                qui sont utilisées à chaque instant par plusieurs milliards de personnes sans que ceux-ci
+                ne le sachent.
+              </p>
+              <p>
+                Plus structuré, le W3C est composé de membres payants (pour la plupart des sociétés privées)
+                dont les cotisations servent à financer une équipe de professionnels de la normalisation
+                qui aident les groupes travaillant sur une norme à produire des documents de meilleure
+                qualité, si possible relativement rapidement. Ceci dit, la présence de membres payants
+                n'empêche pas une participation au travail ouverte à une large communauté de volontaires, et
+                les principaux groupes actifs aujourd'hui sont ouverts au public.
+              </p>
+              <p>
+                Ce partenariat entre industriels et communauté est possible parce que les deux y trouvent
+                leur compte. Les industriels bénéficient d'un vaste corps d'expérience permettant de
+                corriger les erreurs et de trouver des solutions aux problèmes rencontrés; la communauté
+                sait que le travail qu'elle fournit produira à terme une norme adhérant nécessairement aux 
+                valeurs fondamentales du W3C d'accès à tous via la gratuité de technologies sans royalties,
+                l'accessibilité indépendamment des handicaps, l'internationalisation qui garanti un 
+                fonctionnement dans toutes les langues et pour toutes les cultures, ou encore l'indépendance
+                vis-à-vis de tout éditeur logiciel particulier ou de toute plateforme spécifique.
+              </p>
+            </dd>
+          </dl>
+          <p>
+            Vue dans ses grandes lignes, la création d'une norme est un processus relativement simple.
+            Un document la décrivant (une “spécification”) est rédigé, revu par la communauté, ses
+            problèmes sont discutés, la résolution de ceux-ci mène à la rédaction d'une nouvelle
+            version, et ce processus itératif est répété jusqu'à l'obtention d'une spécification dont
+            les fonctions et la qualité font consensus.
+          </p>
+          <p>
+            Dans la pratique, comme l'explique clairement le document décrivant l'organisation de la normalisation à 
+            l'IETF (<a href='http://www.ietf.org/rfc/rfc2026.txt'>The Internet Standards Process</a>),
+            les détails de ce processus sont plus complexes du fait de:
+          </p>
+          <blockquote>
+            <ol>
+              <li>la difficulté qu'il y a à créer des spécifications de haute qualité technique;</li>
+              <li>la nécessité qu'il y a de prendre en compte les intérêts de toutes les parties concernées;</li>
+              <li>l'importance d'établir un vaste consensus au sein de la communauté; et</li>
+              <li>la difficulté à évaluer l'utilité d'une spécification pour la communauté Internet.</li>
+            </ol>
+          </blockquote>
+          <p>
+            Le travail d'élaboration d'une norme est lancé quand il devient apparent que l'absence de
+            convention autour d'un domaine technologique particulier crée plus de problèmes qu'il n'y 
+            a d'avantages à laisser chaque acteur apporter sa propre solution. Il s'agit donc pour une
+            communauté d'intérêts de mettre en place les moyens de s'aligner pour mieux consolider
+            les innovations existantes dans un domaine, notamment afin de pouvoir amener la stabilité
+            nécessaire à la création d'un véritable écosystème autour de ce domaine.
+          </p>
+          <p>
+            À ce stade un groupe de travail spécifique à ce problème est créé (ou si un groupe suffisamment
+            proche existe, il voit sa portée étendue). Les acteurs se réunissent au sein de ce groupe, une 
+            liste de discussion par email ouverte au public est créée, et un espace de publication sur lequel
+            le groupe pourra mettre en ligne ses brouillons, sa spécification finale, ainsi que tout autre
+            document qu'il jugera utile de publier est mis à disposition.
+          </p>
+          <p>
+            Si tous les participants sont égaux, le groupe se structure généralement autour de certains
+            rôles lui permettant de mieux s'organiser en distribuant le travail:
+          </p>
+          <dl>
+            <dt>Le représentant de l'organisme (Team Contact)</dt>
+            <dd>
+              Ce rôle n'est pas attribué dans tous les organismes de normalisation ouverte, mais quand il
+              l'est ses contributions sont très appréciées. C'est une personne mandatée par l'organisme hôte 
+              du groupe pour vérifier que tout se passe selon les règles de fonctionnement de celui-ci, et 
+              pour fournir un soutien technique et logistique.
+            </dd>
+            <dt>L'éditeur</dt>
+            <dd>
+              L'éditeur est en charge de rédiger la spécification selon le consensus du groupe. C'est lui 
+              qui après que chaque point de débat est résolu écrit le contenu correspondant (souvent sur 
+              la base de propositions de participants) et maintient l'intégrité du document. L'intérêt
+              qu'il y a à nommer un éditeur (ou plusieurs) plutôt que de laisser tous les participants modifier 
+              le document directement est qu'il permet généralement de garantir une plus grande cohérence de la
+              rédaction. Cette approche peut sembler s'opposer aux techniques de rédaction “open content” telles
+              qu'utilisées par exemple par Wikipedia, mais dans la pratique ce n'est qu'une formalisation de
+              celles-ci. En effet, si un article Wikipedia peut avoir plusieurs centaines de contributeurs,
+              on remarquera que la plupart du temps la part la plus importante du travail est effectuée par
+              un à trois intervenants.
+            </dd>
+            <dt>Le médiateur/animateur/directeur du groupe (Chair)</dt>
+            <dd>
+              Il gère les débat, coordonne l'agenda, applique les règles de fonctionnement, et s'assure par 
+              tous les moyens de l'élaboration d'un consensus au sein du groupe. 
+              
+              XXX autorité morale respectée de tous, pas de pouvoir exécutif
+              
+              Selon les groupes il y en 
+              a généralement de un à trois.
+            </dd>
+          </dl>
+          
+          
+          
+              
+          
+              
+          
+              
+          
+          <!-- reprendre l'explication du fonctionnement depuis le blog -->
           <!-- 
             . explication du fonctionnement
-            . consensus industriel sur des contenus complexes créés de toutes pièces
+            . consensus industriel/communautaire sur des contenus complexes créés de toutes pièces
             . organisation par sujet
+            . validation par le réel
             MAIS
             . processus plus lourd pour cause d'intérêts commerciaux directs
             . ouvert, mais peut l'être plus
             . l'ancienneté donne une influence parfois indue
-            
-            - on devrait probablement dire quelque chose sur l'IETF ici
           -->
-          <p>
-
-          </p>
         </section>
         <section>
           <h2>Leçons</h2>
@@ -291,6 +476,32 @@
              or participating in this group? Will enough other people feel as I do to make it take off?"
                 Here Comes Everybody (Clay Shirky) Loc. 3348-49
             
+            
+            
+            
+          From Wikipedia, criteria for "Open Source Governance":
+          * anyone can participate, including anonymously
+          * all participants are equals, and resolve disputes via equal power relationships
+          * all actions are transparent, and no one has more power to review them than anyone else
+          * all contributions are recorded and preserved, and these records cannot be altered
+          * all deliberation is structured, or can be put in structured form to resolve disputes
+          * all content is re/organized and refactored by participants
+          * partisan behavior is limited by the format, rules set by factions themselves, and laws extant in the society or community which will be affected by the political decision
+          * control of the forum can, at least in theory, pass to the most trusted users, not the ones who started the forum
+          ===
+          * decentralization of authority: giving the widest and most potent franchise to citizens is thought to minimize what economists call the principal-agent problem, or the tendency for managers to abuse authority.
+          * centralization of information: the use of information technology to facilitate communication challenges is key to the practicality of the process.
+          * equality of opportunity: anyone can participate in deliberation, with the expectation that people themselves select to participate on issues in which they have the greatest stake, expertise or both. Open politics treats the expert and the citizen as equals, implying that the experts are obliged to convince the citizens directly, rather than using representatives as intermediaries/brokers of policy. This use of peer review is emphasized as the best method to determine what is true or good (with the understanding that this should change over time).
+          * encouraging diversity of thought, such that multiple positions and arguments are created, refined and compared; usually the more the better, provided they are succinct.
+          
+          
+        ===
+        Collaborative Innovation Network (COIN)
+        #
+        # Feature sound ethical principles
+        # Based on trust and self-organization
+        # Make knowledge accessible to everyone
+        # Operate in internal honesty and transparency
         -->
         <p>
 

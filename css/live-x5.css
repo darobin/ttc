@@ -50,3 +50,27 @@ p, dd {
 .quote {
     font-style: italic;
 }
+
+blockquote {
+    font-style: italic;
+}
+
+blockquote::before {
+    content:    "“";
+    float:  left;
+    font-size:  5em;
+    color:  #999;
+    display:    block;
+    font-family:    Georgia, "Times New Roman", serif;
+    margin: -10px 0 0 -20px;
+}
+
+blockquote::after {
+    content:    "”";
+    float:  right;
+    font-size:  5em;
+    color:  #999;
+    display:    block;
+    font-family:    Georgia, "Times New Roman", serif;
+    margin: -50px -30px 0 0;
+}
