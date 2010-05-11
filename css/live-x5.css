@@ -39,13 +39,25 @@ p, dd {
     text-align: justify;
 }
 
-#wcount {
+/*#wcount {
     position:   absolute;
     color:  #ccc;
     font-size:  0.9em;
     top:    1em;
     right:  1em;
 }
+*/
+
+#wcount {
+    position:   fixed;
+    color:  #fff;
+    font-size:  0.9em;
+    top:    1em;
+    right:  1em;
+    padding:    5px;
+/*    background: rgba(255, 255, 255, 0.3);*/
+}
+
 
 .quote {
     font-style: italic;

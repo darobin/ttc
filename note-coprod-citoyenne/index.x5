@@ -2,7 +2,7 @@
 <html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
   <head>
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
-    <title>Coproduction citoyenne: De l'idée à la loi</title>
+    <title>Coproduction citoyenne: de l'idée à la loi</title>
     <script src='../js/jquery-1.4.1.min.js' type='text/javascript' charset='utf-8' class='remove'></script>
     <script src='../js/live-x5.js' type='text/javascript' charset='utf-8' class='remove'></script>
   </head>
@@ -22,6 +22,7 @@
             en évoluant l'existant sans le détruire. Qu'en est-il de la politique? Nous regardons ici comment
             il serait possible de reprendre certaines de ces idées pour la faire avancer.
             -> une typologie rapide de ces différentes approches serait utile.
+          - il faut citer l'appel du 22 Mars (je pense)
 
 
           "Now that it is possible to achieve large-scale coordination at low cost, a third category
@@ -169,57 +170,81 @@
             ne créent pas l'action collective — ils ne font qu'éliminer les obstacles qui l'empêchent</q>
             (<q>Social tools don’t create collective action — they merely remove the obstacles to it.</q>).
             Si aucune des offres existantes n'a libéré la coproduction citoyenne, c'est qu'elles n'ont
-            pas su éliminer ces obstacles. Quels sont-ils? Afin de les saisir nous utilisons ici les trois 
-            axes que Clary Shirky dégage comme faisant le succès d'un outil social — la promesse, l'outil, 
-            et le pacte.
+            pas su éliminer ces obstacles. Pour qu'un outil social fonctionne, il faut qu'il réussisse
+            sur deux tableaux:
           </p>
           <dl>
-            <dt>La promesse</dt>
+            <dt>Le contrat</dt>
             <dd>
               <p>
                 C'est la raison qui amène un utilisateur à vouloir se servir d'un outil social, sachant
-                que cette action lui coûte ne serait-ce que du temps.
+                que cette action lui coûte ne serait-ce que du temps. Il doit comprendre ce à quoi le service
+                et lui-même s'engagent, et ce qu'ils tireront respectivement de cette interaction.
+                Un contrat réussi demande à ce que l'utilisateur obtienne quelque chose de son utilisation
+                de l'outil (ne serait-ce que de la fierté), et qu'il n'aie pas l'impression que le responsable
+                du service récupérera ses contributions à des fins qu'il ne cautionne pas. Il est aussi nécessaire
+                que l'utilisateur ait l'impression qu'il ne sera pas le seul à participer, ce sans quoi la dimension
+                sociale n'existe plus.
               </p>
             </dd>
-            <dt>L'outil</dt>
+            <dt>L'outillage</dt>
             <dd>
               <p>
-                
-              </p>
-            </dd>
-            <dt>Le pacte</dt>
-            <dd>
-              <p>
-                
+                C'est l'ensemble des moyens techniques de coordination de la communauté qui se forme autour
+                du service. Un outillage réussi se doit d'être facile d'utilisation commensurément à la complexité
+                de la tâche à accomplir, et doit permettre des actions précédemment impossibles ou du moins 
+                simplifier fortement des actions existantes.
               </p>
             </dd>
           </dl>
+          <p>
+            Dans le cas des Créateurs de Possibles, le contrat n'est pas très clair. Un utilisateur désireux de
+            contribuer mais ne se reconnaissant pas particulièrement dans l'UMP sera naturellement méfiant vis-à-vis
+            d'une potentielle récupération de ses contributions à des fins qui pourraient lui déplaire. Pour la
+            CooPol le contrat est plus lisible, mais il est profondément enraciné autour du Parti Socialiste, ce qui
+            rebutera ceux qui ne souhaitent pas s'aligner sur un parti. Dans les deux cas, les contributions
+            citoyennes qui ne sont pas déjà captées par les partis existants ne sont donc que peu voire pas
+            libérées.
+          </p>
+          <p>
+            Au niveau de l'outillage, nous constatons que les approches choisies à ce jour en France ont été
+            principalement modelées sur les réseaux sociaux. Ceux-ci ont fait la preuve de leur grande capacité 
+            mobilisatrice, il n'est donc pas surprenant de voir les partis politiques traditionnels graviter
+            vers ces solutions. Mais ces propositions ne permettent pas en leurs états actuels de passer
+            à une coproduction citoyenne du politique. Nous allons donc nous pencher sur les systèmes
+            de coproduction existants pour déceler les éléments qui pourraient s'appliquer au domaine
+            politique.
+          </p>
         </section>
-        <!-- 
-          - problèmes constatés sur l'existant
-            . plus axés sur le réseau que sur la production, la promesse ne devrait pas être de se faire
-              des amis mais plutôt de faire évoluer la politique par des contributions
-            . renforcent les structures existantes au lieu d'aller vers de nouvelles possibilités
-            . liens aux partis trop forts, ou peu clairs
-
-          Groupe latent:
-          "Social tools don’t create collective action—they merely remove the obstacles to it."
-              Here Comes Everybody (Clay Shirky), Loc. 2053-54
-
-          "How would you locate the organization? How would you contact it? If you requested 
-           literature, how long would it take to arrive, and by the time it got there, would 
-           you still be in the mood? No one of these barriers to action is insurmountable, 
-           but together they subject the desire to act to the death of a thousand cuts."
-              Here Comes Everybody (Clay Shirky) Loc. 1944-46
-        -->
       </section>
       <section>
-        <h2>Étude de cas de deux systèmes de coproductions réussis</h2>
+        <h2>Systèmes de coproduction existants</h2>
         <p>
-
+          En dehors de la sphère politique, plusieurs systèmes de coproduction se sont développés en accompagnement
+          de la démocratisation progressive d'Internet au cours de ces dernière décennies. Ces systèmes ont
+          en commun leur ouverture, laquelle se retrouve dans leurs noms: “<em>Open Source</em>”, “<em>Open Content</em>”, 
+          “<em>Open Standards</em>” (si le terme “<em>Open Politics</em>” existe, son contenu reste encore
+          mal défini). Les détails de leurs fonctionnement diffèrent cependant, nous les analyserons
+          donc rapidement afin d'essayer d'en tirer des applications au domaine politique.
         </p>
         <section>
-          <h2>Wikipedia</h2>
+          <h2>Le mouvement Open Source</h2>
+          <p>
+            
+          </p>
+          <!--
+            . survol rapide du fonctionnement
+            . problèmes d'applicabilité directe (tout est axé sur le code), même si certaines idées sont bonnes
+            . montrer:
+              # Feature sound ethical principles
+              # Based on trust and self-organization
+              # Make knowledge accessible to everyone
+              # Operate in internal honesty and transparency
+          -->
+        </section>
+        
+        <section>
+          <h2>Wikipedia et l'approche Open Content</h2>
           <p>
             En lisant les articles de Wikipedia, la plupart des utilisateurs pensent probablement qu'ils
             constituent le plus gros du contenu du site; et en cliquant sur "modifier", beaucoup pensent
@@ -234,6 +259,13 @@
             . décrire est plus simple que créer
             . le volume à produire implique une organisation différente de celle nécessaire pour 
               produire moins de documents
+
+            . montrer:
+            # Feature sound ethical principles
+            # Based on trust and self-organization
+            # Make knowledge accessible to everyone
+            # Operate in internal honesty and transparency
+            
 
             All from Here Comes Everybody (Clay Shirky)
 
@@ -434,16 +466,24 @@
             leurs relations entre eux.
           </p>
           <p>
-            Tout n'est cependant pas parfait dans le monde de la normalisation ouverte (dont les règles évoluent
+            Tout n'est cependant pas parfait dans le monde de la normalisation ouverte (dont les modalités évoluent
             d'ailleurs régulièrement pour en améliorer les processus), et tout ne peut pas être directement
             transposé à la coproduction citoyenne.
           </p>
-          <!-- 
-            MAIS
-            . processus plus lourd pour cause d'intérêts commerciaux directs
-            . ouvert, mais peut l'être plus
-            . l'ancienneté donne une influence parfois indue (souvent à cause de processus trop complexes)
-          -->
+          <p>
+            C'est une chose que d'être ouvert, c'en est une autre que d'être transparent et accessible. Malgré
+            une volonté réelle d'ouverture, les organismes de normalisation ouvertes se révèlent souvent
+            difficiles d'accès pour trop de participants potentiels. La raison principale de ces difficultés
+            est que leurs processus, qu'ils soient formellement codifiés ou simplement le produit d'une lente
+            accrétion de codes sociaux informels, sont fréquemment perçus comme lourds ou opaques par les
+            nouveaux arrivants. Cette complexité non seulement rebute des participants, mais aussi donne un
+            avantage indu aux participants expérimentés en leur permettant parfois de prendre le dessus sur
+            d'autres par des argumentations fondées plus sur la forme que sur le fond. Et même quand ces 
+            interventions sont jugulées, le poids du processus organisant les discussions a trop souvent
+            un fort coût en termes de temps. Si la normalisation se doit de ne pas entériner au rythme de
+            l'innovation, il ne faut pas non plus qu'elle se montre lente au point de l'étouffer, et la
+            lourdeur des processus utilisés tend parfois à tirer cet équilibre de par trop vers la lenteur.
+          </p>
         </section>
         <section>
           <h2>Leçons</h2>
@@ -456,10 +496,32 @@
               car celle-ci sera employée même si de façon non-contraignante pour axer les conversations
             . certains outils sont nécessaires
 
+            => il faut:
+                - une éthique cohérente
+                - l'ouverture à tous et la transparence du fonctionnement (jusque dans sa simplicité)
+                - une organisation légère fondée sur la confiance
+
             Ne pas citer ça, mais réutiliser la même idée de base:
               "Wikis take on one of the most basic questions of political philosophy: 
                Who will guard the guardians? Their answer is, everyone."
                   Here Comes Everybody (Clay Shirky) - Highlight Loc. 3463 | Added on Tuesday, April 06, 2010, 09:31 AM
+
+
+            From Wikipedia, criteria for "Open Source Governance":
+            * anyone can participate, including anonymously
+            * all participants are equals, and resolve disputes via equal power relationships
+            * all actions are transparent, and no one has more power to review them than anyone else
+            * all contributions are recorded and preserved, and these records cannot be altered
+            * all deliberation is structured, or can be put in structured form to resolve disputes
+            * all content is re/organized and refactored by participants
+            * partisan behavior is limited by the format, rules set by factions themselves, and laws extant in the society or community which will be affected by the political decision
+            * control of the forum can, at least in theory, pass to the most trusted users, not the ones who started the forum
+            ===
+            * decentralization of authority: giving the widest and most potent franchise to citizens is thought to minimize what economists call the principal-agent problem, or the tendency for managers to abuse authority.
+            * centralization of information: the use of information technology to facilitate communication challenges is key to the practicality of the process.
+            * equality of opportunity: anyone can participate in deliberation, with the expectation that people themselves select to participate on issues in which they have the greatest stake, expertise or both. Open politics treats the expert and the citizen as equals, implying that the experts are obliged to convince the citizens directly, rather than using representatives as intermediaries/brokers of policy. This use of peer review is emphasized as the best method to determine what is true or good (with the understanding that this should change over time).
+            * encouraging diversity of thought, such that multiple positions and arguments are created, refined and compared; usually the more the better, provided they are succinct.
+  
           -->
           <p>
 
@@ -498,32 +560,6 @@
              or participating in this group? Will enough other people feel as I do to make it take off?"
                 Here Comes Everybody (Clay Shirky) Loc. 3348-49
             
-            
-            
-            
-          From Wikipedia, criteria for "Open Source Governance":
-          * anyone can participate, including anonymously
-          * all participants are equals, and resolve disputes via equal power relationships
-          * all actions are transparent, and no one has more power to review them than anyone else
-          * all contributions are recorded and preserved, and these records cannot be altered
-          * all deliberation is structured, or can be put in structured form to resolve disputes
-          * all content is re/organized and refactored by participants
-          * partisan behavior is limited by the format, rules set by factions themselves, and laws extant in the society or community which will be affected by the political decision
-          * control of the forum can, at least in theory, pass to the most trusted users, not the ones who started the forum
-          ===
-          * decentralization of authority: giving the widest and most potent franchise to citizens is thought to minimize what economists call the principal-agent problem, or the tendency for managers to abuse authority.
-          * centralization of information: the use of information technology to facilitate communication challenges is key to the practicality of the process.
-          * equality of opportunity: anyone can participate in deliberation, with the expectation that people themselves select to participate on issues in which they have the greatest stake, expertise or both. Open politics treats the expert and the citizen as equals, implying that the experts are obliged to convince the citizens directly, rather than using representatives as intermediaries/brokers of policy. This use of peer review is emphasized as the best method to determine what is true or good (with the understanding that this should change over time).
-          * encouraging diversity of thought, such that multiple positions and arguments are created, refined and compared; usually the more the better, provided they are succinct.
-          
-          
-        ===
-        Collaborative Innovation Network (COIN)
-        #
-        # Feature sound ethical principles
-        # Based on trust and self-organization
-        # Make knowledge accessible to everyone
-        # Operate in internal honesty and transparency
         -->
         <p>
 
@@ -556,6 +592,12 @@
       Here Comes Everybody (Clay Shirky)
         - The lesson from Manutius’s life is that the future belongs to those who take the present for granted.
         - Revolution doesn’t happen when society adopts new technologies—it happens when society adopts new behaviors.
+
+"How would you locate the organization? How would you contact it? If you requested 
+ literature, how long would it take to arrive, and by the time it got there, would 
+ you still be in the mood? No one of these barriers to action is insurmountable, 
+ but together they subject the desire to act to the death of a thousand cuts."
+    Here Comes Everybody (Clay Shirky) Loc. 1944-46
 
   -->
 </html>
