@@ -391,33 +391,58 @@
             <dt>Le médiateur/animateur/directeur du groupe (Chair)</dt>
             <dd>
               Il gère les débat, coordonne l'agenda, applique les règles de fonctionnement, et s'assure par 
-              tous les moyens de l'élaboration d'un consensus au sein du groupe. 
-              
-              XXX autorité morale respectée de tous, pas de pouvoir exécutif
-              
-              Selon les groupes il y en 
-              a généralement de un à trois.
+              tous les moyens de l'élaboration d'un consensus au sein du groupe. Il ne dispose d'aucun pouvoir
+              particulier lui permettant de forcer le groupe ou ses membres à agir d'une façon ou d'une autre
+              et son influence sur les décisions entérinée n'est pas plus importante que celle d'un autre
+              participant. C'est avant tout une autorité morale respectée de tous, un <em>primus inter pares</em>
+              (premier parmi ses pairs) qui coordonne l'action collective; dans un groupe bien rôdé il arrive 
+              souvent qu'on ne le différencie des autres participants que lors de ses interventions administratives. 
             </dd>
           </dl>
-          
-          
-          
-              
-          
-              
-          
-              
-          
-          <!-- reprendre l'explication du fonctionnement depuis le blog -->
+          <p>
+            Rien n'empêche les personnes endossant ces rôles d'exprimer de fortes opinions sur les sujets traités,
+            mais ils doivent savoir faire la part des choses et se poser au-dessus du lot pour faire avancer le 
+            consensus. 
+          </p>
+          <p>
+            Le public intervient, lui, à tout moment. Les débats étant ouverts à tous, il est commun de voir des 
+            participants du groupe et membres du public discuter entre eux directement sans qu'il y ait la moindre 
+            distinction. L'éditeur maintient en permanence un brouillon de la spécification qu'il met à jour 
+            régulièrement, et le groupe publie à intervalle régulier des versions de travail. Ces publications 
+            permettent au groupe de signaler qu'il a progressé dans son travail, et par là de solliciter des 
+            commentaires spécifiques de la part du public. Il est aussi commun de demander à d'autres groupes 
+            spécialisés sur d'autres domaines de fournir leurs commentaires et d'assister au développement de 
+            certains aspects d'une norme car il y a souvent des empiétements de compétences.
+          </p>
+          <p>
+            Une fois que ce processus itératif a produit un document qui emporte le consensus du groupe et de
+            sa communauté, le travail n'est pas pour autant terminé: il faut encore s'assurer que la spécification
+            peut effectivement être utilisée et déployée dans la pratique. Une phase de test, dont les détails
+            dépendent de la technologie concernée, est amorcée. Celle-ci doit valider que plusieurs personnes
+            travaillant indépendamment peuvent, sans l'aide du groupe, faire sens et appliquer la spécification
+            de façon cohérente et similaire.
+          </p>
+          <p>
+            Cette dernière étape franchie, un nouveau standard est né. Celui-ci est donc le fruit d'un consensus 
+            autour d'une solution conventionnelle entre une variété d'acteurs qui peuvent par ailleurs se 
+            livrer à une concurrence des plus acharnées (fournisseurs de solutions du même domaine) ou avoir des 
+            besoins opposés (produire à moindre coût pour les fournisseurs contre obtenir les fonctions spécifiques
+            pour des minorités d'utilisateurs). Quand le processus de création est ouvert, la participation du 
+            public permet l'intervention d'experts indépendants, de simples utilisateurs éclairés, et élargit 
+            le champs du consensus à une plus grande communauté. De plus, travailler devant public a une nette 
+            tendance à rendre les participants plus honnêtes sur leurs contributions, et plus gracieux dans 
+            leurs relations entre eux.
+          </p>
+          <p>
+            Tout n'est cependant pas parfait dans le monde de la normalisation ouverte (dont les règles évoluent
+            d'ailleurs régulièrement pour en améliorer les processus), et tout ne peut pas être directement
+            transposé à la coproduction citoyenne.
+          </p>
           <!-- 
-            . explication du fonctionnement
-            . consensus industriel/communautaire sur des contenus complexes créés de toutes pièces
-            . organisation par sujet
-            . validation par le réel
             MAIS
             . processus plus lourd pour cause d'intérêts commerciaux directs
             . ouvert, mais peut l'être plus
-            . l'ancienneté donne une influence parfois indue
+            . l'ancienneté donne une influence parfois indue (souvent à cause de processus trop complexes)
           -->
         </section>
         <section>
@@ -430,9 +455,6 @@
             . l'importance d'avoir une charte fondamentale guidant l'action de tous (promise+bargain)
               car celle-ci sera employée même si de façon non-contraignante pour axer les conversations
             . certains outils sont nécessaires
-
-            Dan Bricklin (Cornucopia of the Commons, http://www.bricklin.com/cornucopia.htm) on how to
-            get volunteers through an architecture of participation
 
             Ne pas citer ça, mais réutiliser la même idée de base:
               "Wikis take on one of the most basic questions of political philosophy: 
