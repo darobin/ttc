@@ -230,17 +230,46 @@
         <section>
           <h2>Le mouvement Open Source</h2>
           <p>
-            
+            Il faut distinguer les logiciels dits “Open Source” du processus typique de production de tels
+            logiciels qui nous intéresse plus directement. Le label “Open Source” est attribué aux logiciels
+            dont la licence d'utilisation répond à un nombre de critères bien spécifiques incluant plus 
+            particulièrement l'accès au code source (les instructions lisibles par un programmeur), la
+            redistribution libre, et le droit de modification afin de produire des versions dérivées.
           </p>
-          <!--
-            . survol rapide du fonctionnement
-            . problèmes d'applicabilité directe (tout est axé sur le code), même si certaines idées sont bonnes
-            . montrer:
-              # Feature sound ethical principles
-              # Based on trust and self-organization
-              # Make knowledge accessible to everyone
-              # Operate in internal honesty and transparency
-          -->
+          <p>
+            Si le label ne contraint en rien le processus de production, et s'il existe une grande variété
+            de ceux-ci, il est néanmoins possible de décrire succinctement le fonctionnement d'un projet
+            Open Source <em>relativement</em> typique.
+          </p>
+          <p>
+            Au départ, un programmeur produit la première version d'un logiciel, et en publie le code
+            source pour le bénéfice de tous. Si son projet suscite l'intérêt d'autres programmeurs, ils
+            le rejoindront dans le but de faire évoluer ce logiciel. Cette communauté s'organise généralement
+            autour de deux outils principaux: d'une part, une liste de discussion par email permettant au
+            groupe de coordonner ses actions et de résoudre les problèmes rencontrés lors du développement;
+            d'autre part un serveur sur lequel réside le code source et qui permet à chaque participant
+            de le modifier progressivement, de façon cohérente.
+          </p>
+          <p>
+            La communauté qui se crée ainsi est rarement très structurée, même pour les grands projets. Il
+            n'est pas rare que tous fonctionnent en égaux, une prépondérance étant souvent donnée à
+            l'initiateur du projet (on parle dans ce cas de “dictateur bienveillant”).
+          </p>
+          <p>
+            Le contrat tacite est simple: chacun améliore un produit que tous utilisent, et la licence
+            garantit que nul ne pourra se l'approprier en privant les participants de leurs contributions.
+            De surcroît, c'est souvent un très bon moyen pour chaque contributeur de se faire une bonne
+            réputation, ainsi que d'apprendre de nouvelles techniques en partageant ses connaissances propres.
+          </p>
+          <p>
+            Ceci dit l'applicabilité de ce fonctionnement à une coproduction citoyenne n'est pas immédiate.
+            Si le contrat s'y traduit bien, l'outillage est trop spécifique au développement logiciel pour
+            pouvoir être utilisé tel quel. Nous noterons cependant que l'idée de garantir la propriété
+            collective des contributions individuelles ainsi que la pleine liberté de transformation et
+            de retransmission est un élément contractuel fort qui fait qu'aujourd'hui la plupart des
+            programmeurs contribueront à un projet Open Source le plus naturellement du monde. C'est un
+            élément à conserver.
+          </p>
         </section>
         
         <section>
