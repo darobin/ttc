@@ -52,7 +52,7 @@
         </p>
       </section>
       <section>
-        <h2>Problématique de la coproduction politique</h2>
+        <h2>Les partis et la coproduction politique</h2>
         <p>
           Les partis politiques sont les instances traditionnelles de l'organisation de la vie
           démocratique. Cette place s'est construite naturellement pour faire face aux difficultés
@@ -271,7 +271,6 @@
             élément à conserver.
           </p>
         </section>
-        
         <section>
           <h2>Wikipedia et l'approche Open Content</h2>
           <p>
@@ -547,53 +546,67 @@
             lourdeur des processus utilisés tend parfois à tirer cet équilibre de par trop vers la lenteur.
           </p>
         </section>
-        <section>
-          <h2>Leçons</h2>
-          <!-- 
-            . organisation en groupes par sujet, faire de l'approche "issues-based" une force
-            . légitimité par la contribution
-            . blocage de trolls par la communauté
-            . émergence d'une méritocratie couplée à l'importance vitale des petites contributions
-            . l'importance d'avoir une charte fondamentale guidant l'action de tous (promise+bargain)
-              car celle-ci sera employée même si de façon non-contraignante pour axer les conversations
-            . certains outils sont nécessaires
+      </section>
+      <section>
+        <h2>Les enseignements de l'existant</h2>
+        <p>
+          Les systèmes de coproduction ouverte fonctionnent. Que ce soit pour la création de logiciels
+          universellement utilisés, de la meilleure source encyclopédique disponible, ou des normes
+          qui forment l'infrastructure des technologies de l'Internet, elles ont fait leurs preuves.
+          Avec comme objectif la coproduction citoyenne de la politique, en analysant les limites de 
+          ce qui a été réalisé dans le domaine politique à ce jour et les réussites de ces systèmes 
+          coproductifs, nous pouvons tirer les enseignements qui suivent.
+        </p>
+        <!-- 
+          . l'élément fondamental de la politique sur internet n'est pas l'ami mais le groupe.
+            (pas le lien affinitaire mais )
+          . organisation en groupes par sujet, faire de l'approche "issues-based" une force
+          
+          . légitimité par la contribution
+          . émergence d'une méritocratie couplée à l'importance vitale des petites contributions
 
-            => il faut:
-                - une éthique claire et cohérente
-                - l'ouverture à tous et la transparence du fonctionnement (jusque dans sa simplicité)
-                - une organisation légère fondée sur la confiance
+          . blocage de trolls par la communauté, filtrage par la communauté
 
-            Ne pas citer ça, mais réutiliser la même idée de base:
+          . l'importance d'avoir une charte fondamentale guidant l'action de tous (promise+bargain)
+            car celle-ci sera employée même si de façon non-contraignante pour axer les conversations
+
+          . certains outils sont nécessaires
+          
+          . l'ouverture n'existe pas sans transparence
+          
+          => il faut:
+              - une éthique claire et cohérente
+              - l'ouverture à tous et la transparence du fonctionnement (jusque dans sa simplicité)
               "Wikis take on one of the most basic questions of political philosophy: 
                Who will guard the guardians? Their answer is, everyone."
                   Here Comes Everybody (Clay Shirky) - Highlight Loc. 3463 | Added on Tuesday, April 06, 2010, 09:31 AM
+              - une organisation légère fondée sur la confiance
 
 
-            From Wikipedia, criteria for "Open Source Governance":
-            * anyone can participate, including anonymously
-            * all participants are equals, and resolve disputes via equal power relationships
-            * all actions are transparent, and no one has more power to review them than anyone else
-            * all contributions are recorded and preserved, and these records cannot be altered
-            * all deliberation is structured, or can be put in structured form to resolve disputes
-            * all content is re/organized and refactored by participants
-            * partisan behavior is limited by the format, rules set by factions themselves, and laws extant in the society or community which will be affected by the political decision
-            * control of the forum can, at least in theory, pass to the most trusted users, not the ones who started the forum
-            ===
-            * decentralization of authority: giving the widest and most potent franchise to citizens is thought to minimize what economists call the principal-agent problem, or the tendency for managers to abuse authority.
-            * centralization of information: the use of information technology to facilitate communication challenges is key to the practicality of the process.
-            * equality of opportunity: anyone can participate in deliberation, with the expectation that people themselves select to participate on issues in which they have the greatest stake, expertise or both. Open politics treats the expert and the citizen as equals, implying that the experts are obliged to convince the citizens directly, rather than using representatives as intermediaries/brokers of policy. This use of peer review is emphasized as the best method to determine what is true or good (with the understanding that this should change over time).
-            * encouraging diversity of thought, such that multiple positions and arguments are created, refined and compared; usually the more the better, provided they are succinct.
-  
-          -->
-          <p>
 
-          </p>
-        </section>
+          From Wikipedia, criteria for "Open Source Governance":
+          * anyone can participate, including anonymously
+          * all participants are equals, and resolve disputes via equal power relationships
+          * all actions are transparent, and no one has more power to review them than anyone else
+          * all contributions are recorded and preserved, and these records cannot be altered
+          * all deliberation is structured, or can be put in structured form to resolve disputes
+          * all content is re/organized and refactored by participants
+          * partisan behavior is limited by the format, rules set by factions themselves, and laws extant in the society or community which will be affected by the political decision
+          * control of the forum can, at least in theory, pass to the most trusted users, not the ones who started the forum
+          ===
+          * decentralization of authority: giving the widest and most potent franchise to citizens is thought to minimize what economists call the principal-agent problem, or the tendency for managers to abuse authority.
+          * centralization of information: the use of information technology to facilitate communication challenges is key to the practicality of the process.
+          * equality of opportunity: anyone can participate in deliberation, with the expectation that people themselves select to participate on issues in which they have the greatest stake, expertise or both. Open politics treats the expert and the citizen as equals, implying that the experts are obliged to convince the citizens directly, rather than using representatives as intermediaries/brokers of policy. This use of peer review is emphasized as the best method to determine what is true or good (with the understanding that this should change over time).
+          * encouraging diversity of thought, such that multiple positions and arguments are created, refined and compared; usually the more the better, provided they are succinct.
+
+        -->
+        <p>
+
+        </p>
       </section>
       <section>
         <h2>Proposition d'application au domaine politique</h2>
         <!-- 
-          - l'élément fondamental de la politique sur internet n'est pas l'ami mais le groupe.
           - polity.coop
         
         
