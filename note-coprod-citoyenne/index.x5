@@ -321,46 +321,34 @@
             nombre d'utilisateurs reconnus pour leur expérience et leur neutralité. Ce type de recours
             est cependant exceptionnel — si ce n'était pas le cas le système se retrouverait en faillite.
           </p>
-          <!-- 
-            . une vaste bureaucratie participative produisant du contenu
-            . documents complexes produits
-            MAIS
-            . décrire est plus simple que créer
-            . le volume à produire implique une organisation différente de celle nécessaire pour 
-              produire moins de documents
-            . solution != description
-              - ne pas être partisan mais ne pas être neutre
-              - désaccords techniques nécessitant ample discussions
-
-            -> le contrat (open content), les outils (wiki)
-
-            . montrer:
-            # Feature sound ethical principles
-            # Based on trust and self-organization
-            # Make knowledge accessible to everyone
-            # Operate in internal honesty and transparency
-            
-
-            All from Here Comes Everybody (Clay Shirky)
-
-              Loc. 1537-38
-                "A Wikipedia article is a process, not a product, and as a result, it is never finished."
-              Loc. 1791-96
-                "Wikipedia is predicated on openness not as a theoretical way of working but as a practical 
-                 one. This pragmatism often comes as a shock to people who hold up Wikipedia as a beacon of 
-                 pure openness, but the curious fact is that many of Wikipedia’s most vociferous boosters actually 
-                 don’t know much about its inner workings and want to regard it, wrongly, as an experiment in 
-                 communal anarchy. The people most enamored of describing Wikipedia as the product of a 
-                 free-form hive mind don’t understand how Wikipedia actually works. It is the product 
-                 not of collectivism but of unending argumentation. The articles grow not from harmonious 
-                 thought but from constant scrutiny and emendation."
-              Loc. 1804
-                "Because Wikipedia is a process, not a product, it replaces guarantees offered by 
-                 institutions with probabilities supported by process:"
-              Loc. 3557
-                 "Wikipedia, which looks like a reference work to the average viewer, is in fact a 
-                  bureaucracy mainly given over to arguing."
-          -->
+          <p>
+            Le projet Wikipedia peut donc être perçu comme une vaste bureaucratie participative produisant 
+            du contenu, lequel est souvent à la fois complexe et de qualité. C'est un exemple dont il
+            faut apprendre pour alimenter la coproduction citoyenne, et c'est tout naturellement que
+            les communautés s'intéressant à la gouvernance ouverte en font régulièrement un modèle.
+          </p>
+          <p>
+            Mais avant de transposer tel quel le mode de fonctionnement de Wikipedia, il est utile de
+            se poser la question des différences qu'il y a entre la production de contenu encyclopédique,
+            donc largement descriptif et la création de solutions politiques décisives et 
+            détaillées pouvant aller jusqu'à la rédaction d'une proposition de loi.
+          </p>
+          <p>
+            En effet, décrire est plus simple que créer. En reprenant les deux valeurs motrices du
+            consensus de Wikipedia que sont la neutralité du point de vue et la vérifiabilité, il
+            apparaît qu'elles se transposent mal au domaine politique. S'il est désirable qu'une
+            approche coopérative de la politique soit non-partisane, une solution est par définition
+            non-neutre car elle s'attaque à un problème. Pareillement, bien qu'ancrer une solution
+            le plus fermement possible dans les connaissances disponibles sur un sujet particulier
+            est recommandable, il est rarement possible de pouvoir vérifier complètement a priori
+            qu'une solution fonctionne effectivement.
+          </p>
+          <p>
+            En conséquence, sans perdre de vue les avantages réels du modèle Wikipedia, nous analysons
+            un troisième système de production coopérative dont le but — bâtir un consensus autour
+            d'une solution nouvelle à un problème collectivement constaté — est plus proche du domaine
+            politique: la normalisation ouverte.
+          </p>
         </section>
         <section>
           <h2>La normalisation ouverte: W3C et IETF</h2>
