@@ -557,48 +557,63 @@
           ce qui a été réalisé dans le domaine politique à ce jour et les réussites de ces systèmes 
           coproductifs, nous pouvons tirer les enseignements qui suivent.
         </p>
+        <p>
+          Tout d'abord, <em>l'élément fondamental de la coproduction n'est pas le lien affinitaire, mais
+          l'adhésion à un projet</em>. Les réseaux sociaux tels que classiquement compris se construisent
+          sur la base de listes d'“amis”, qu'elles soient réciproques (Facebook) ou unidirectionnelles
+          (Twitter). Si ceux-ci peuvent, en fournissant un véhicule à la dissémination et à la 
+          communication, permettre une coordination des actions des partis bien plus efficace qu'auparavant,
+          ils ne semblent pas adaptés à la coproduction: il n'y a pas de réseau social sur lequel s'est
+          réalisée une coproduction d'envergure, et à l'inverse les systèmes de coproduction réussis ne
+          sont pas des réseaux sociaux, du moins pas au sens commun de ce terme. L'approche de ces derniers
+          et de définir des projets (un composant logiciel, un article sur un sujet donné, une norme pour
+          un domaine particulier) auxquels des participants volontaires vont décider de contribuer. Bien
+          entendu, durant l'élaboration d'un projet il est fort probable que des liens se tissent mais ceux-ci
+          ne sont en rien nécessaire au bon fonctionnement de celui-ci, et il n'est pas rare que des participants
+          ne se connaissent pas entre eux, voire qu'ils ne s'apprécient guère en dehors de cet objectif qu'ils
+          ont en commun.
+        </p>
+        <p>
+          Là où il est nécessaire à la communauté de se structurer, <em>la légitimité des responsables doit
+          provenir de leurs contributions</em>. Que ce soit pour modérer une discussion ou trancher une
+          dispute dont la durée menace l'émergence d'une solution, les personnes investies par le groupe
+          de la responsabilité de son bon fonctionnement doivent être issues d'une méritocratie de
+          participation qui fait consensus. De surcroît, si ces responsables se montrent biaisés ou
+          incompétents, le groupe doit pouvoir les remplacer.
+        </p>
+        <p>
+          <em>La facilité des “petites contributions” est essentielle.</em> Les projets coproductifs
+          fonctionnent souvent de façon essentielle sur la base du travail d'un petit nombre de
+          participants. Mais ceci ne doit pas occulter le fait qu'un volume important du travail est
+          réalisé par un grand nombre de participants effectuant des contributions individuellement petites 
+          et isolées mais dont l'agrégat représente une participation majeure au projet. De plus cette 
+          ouverture à la contribution participe de la légitimité de la solution éventuellement adoptée.
+        </p>
+        <p>
+          Quand c'est nécessaire, <em>une communauté est capable de mettre en place son propre filtrage</em>.
+          S'il est inévitable que l'ouverture à tous d'un projet amène nécessairement son lot de personnes
+          indésirables qui chercheront à dérailler le processus, l'expérience montre que des communautés
+          créées autour d'un projet sont à même, à moindre coût pour elles, de mettre en place un filtrage
+          leur permettant d'éviter ces dérangements soit en raisonnant avec les personnes en question, soit
+          en les excluant des outils utilisés.
+        </p>
         <!-- 
-          . l'élément fondamental de la politique sur internet n'est pas l'ami mais le groupe.
-            (pas le lien affinitaire mais )
-          . organisation en groupes par sujet, faire de l'approche "issues-based" une force
-          
-          . légitimité par la contribution
-          . émergence d'une méritocratie couplée à l'importance vitale des petites contributions
-
-          . blocage de trolls par la communauté, filtrage par la communauté
-
+          . l'ouverture n'existe pas sans transparence
+          . tout est public, transparent, et surtout archivé
+          - l'ouverture à tous et la transparence du fonctionnement (jusque dans sa simplicité)
+          "Wikis take on one of the most basic questions of political philosophy: 
+           Who will guard the guardians? Their answer is, everyone."
+              Here Comes Everybody (Clay Shirky) - Highlight Loc. 3463 | Added on Tuesday, April 06, 2010, 09:31 AM
+        
           . l'importance d'avoir une charte fondamentale guidant l'action de tous (promise+bargain)
             car celle-ci sera employée même si de façon non-contraignante pour axer les conversations
+          - une éthique claire et cohérente
+
+          - une organisation légère fondée sur la confiance
+          . une structure simple (un processus), compréhensible par tous, est appliquée aux discussion et à l'élaboration
+            de la solution
 
           . certains outils sont nécessaires
-          
-          . l'ouverture n'existe pas sans transparence
-          
-          => il faut:
-              - une éthique claire et cohérente
-              - l'ouverture à tous et la transparence du fonctionnement (jusque dans sa simplicité)
-              "Wikis take on one of the most basic questions of political philosophy: 
-               Who will guard the guardians? Their answer is, everyone."
-                  Here Comes Everybody (Clay Shirky) - Highlight Loc. 3463 | Added on Tuesday, April 06, 2010, 09:31 AM
-              - une organisation légère fondée sur la confiance
-
-
-
-          From Wikipedia, criteria for "Open Source Governance":
-          * anyone can participate, including anonymously
-          * all participants are equals, and resolve disputes via equal power relationships
-          * all actions are transparent, and no one has more power to review them than anyone else
-          * all contributions are recorded and preserved, and these records cannot be altered
-          * all deliberation is structured, or can be put in structured form to resolve disputes
-          * all content is re/organized and refactored by participants
-          * partisan behavior is limited by the format, rules set by factions themselves, and laws extant in the society or community which will be affected by the political decision
-          * control of the forum can, at least in theory, pass to the most trusted users, not the ones who started the forum
-          ===
-          * decentralization of authority: giving the widest and most potent franchise to citizens is thought to minimize what economists call the principal-agent problem, or the tendency for managers to abuse authority.
-          * centralization of information: the use of information technology to facilitate communication challenges is key to the practicality of the process.
-          * equality of opportunity: anyone can participate in deliberation, with the expectation that people themselves select to participate on issues in which they have the greatest stake, expertise or both. Open politics treats the expert and the citizen as equals, implying that the experts are obliged to convince the citizens directly, rather than using representatives as intermediaries/brokers of policy. This use of peer review is emphasized as the best method to determine what is true or good (with the understanding that this should change over time).
-          * encouraging diversity of thought, such that multiple positions and arguments are created, refined and compared; usually the more the better, provided they are succinct.
-
         -->
         <p>
 
@@ -609,7 +624,14 @@
         <!-- 
           - polity.coop
         
-        
+          - sur la base des enseignements de la section précédente:
+            . s'organiser autour de sujets clairement délimités auxquels viennent se greffer ceux qui le désirent
+              il est probablement utile que la mise en place de chaque sujet soit coordonnée pour éviter les
+              doublons, les hors-sujet, et maintenir une cohérence minimale. le mécanisme de cette coordination
+              peut très bien être communautaire. il est notamment important que des personnes ne s'intéressant qu'à
+              un seul sujet puissent y participer sans barrière particulière et sans se sentir absorbée dans un projet
+              plus large ou donner l'impression qu'elles soutiennent nécessairement les conclusions des autres groupes
+          
           - la charte fondamentale
             . non-partisan mais non-neutre
             . ouvert à tous
