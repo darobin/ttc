@@ -58,6 +58,10 @@ p, dd {
 /*    background: rgba(255, 255, 255, 0.3);*/
 }
 
+a {
+    color:  #632c2c;
+    text-decoration: none;
+}
 
 .quote {
     font-style: italic;

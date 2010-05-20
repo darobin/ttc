@@ -275,19 +275,64 @@
         <section>
           <h2>Wikipedia et l'approche Open Content</h2>
           <p>
-            En lisant les articles de Wikipedia, la plupart des utilisateurs pensent probablement qu'ils
-            constituent le plus gros du contenu du site; et en cliquant sur "modifier", beaucoup pensent
-            probablement qu'ils accèdent au niveau le plus profond de ce système. Ces impressions sont
-            fausses.
+            En lisant les articles de Wikipedia, beaucoup utilisateurs pensent probablement que ceux-ci
+            constituent le plus gros du contenu du site; et en cliquant sur “modifier”, qu'ils accèdent 
+            au niveau le plus avancé et le plus profond de ce système. Ces impressions sont fausses. La 
+            majorité du contenu de Wikipedia se trouve dans les pages administratives qui soutiennent la
+            création du contenu, notamment les pages qui servent aux contributeurs à discuter entre eux 
+            du contenu des articles.
+          </p>
+          <p>
+            La rédaction d'articles Wikipedia se fait par consensus. Au niveau le plus simple, une personne
+            créera un article, et d'autres l'enrichiront et le corrigeront progressivement, sans qu'il y ait
+            la moindre nécessité de coordonner leurs actions. Dans cette situation nous avons un consensus
+            implicite, où le silence et l'inaction de ceux qui ne modifient pas le contenu d'un article impliquent 
+            leur accord.
+          </p>
+          <p>
+            Lorsque deux éditeurs (ou plus) se trouvent en désaccord sur la rédaction d'un article, il leur
+            appartient de résoudre cette situation sur la page de discussion correspondant à celui-ci.
+            Le format de leur négociation est libre, mais un ensemble de règles et de recommandations
+            existe auxquelles il est fréquent de se référer afin de parvenir à un accord. L'ensemble de
+            ces règles de la simple étiquette (ou “Wikiquette”) aux principes fondamentaux serait trop longue
+            à décrire (et comme le reste du site, évolue constamment) mais deux valeurs sont invoquées
+            plus fréquemment que les autres: d'une part l'adoption d'un point de vue neutre, qui demande
+            une rédaction juste, proportionnée, et non-biaisée, et d'autre part la vérifiabilité de l'information
+            fournie. Sur cette base, beaucoup de désaccord sont réglés directement par les parties concernées.
+          </p>
+          <p>
+            Il est important de noter que ces discussions sont effectuées et archivées en public, de sorte à
+            ce que tout nouvel arrivant puisse facilement comprendre le processus qui a mené au consensus
+            actuel autour d'un article. Cette notion de transparence non seulement du produit mais aussi
+            du processus fait partie intégrante du système. En fournissant une mémoire à celui-ci, elle
+            évite la répétition stérile de discussions précédentes et apporte une traçabilité du résultat
+            qui permet non seulement de comprendre l'état actuel mais aussi d'y déceler des erreurs.
+          </p>
+          <p>
+            Si toutefois les éditeurs ne parviennent pas à s'entendre par discussion entre eux, il leur 
+            faut trouver un moyen d'avancer. Dans un premier temps, il est commun de chercher à impliquer
+            soit un tiers (ou d'un comité de tiers) communément accepté comme neutre qui pourra fournir 
+            une médiation à la discussion, soit une plus large participation communautaire pour bénéficier 
+            d'autres points de vue.
+          </p>
+          <p>
+            En dernier recours, si toutes les tentatives de médiation ont échoué, il est possible d'avoir
+            recours au Comité d'Arbitrage qui tranchera définitivement. Le comité est composé d'un petit
+            nombre d'utilisateurs reconnus pour leur expérience et leur neutralité. Ce type de recours
+            est cependant exceptionnel — si ce n'était pas le cas le système se retrouverait en faillite.
           </p>
           <!-- 
-            . explication du fonctionnement
-            . bureaucratie produisant du contenu
+            . une vaste bureaucratie participative produisant du contenu
             . documents complexes produits
             MAIS
             . décrire est plus simple que créer
             . le volume à produire implique une organisation différente de celle nécessaire pour 
               produire moins de documents
+            . solution != description
+              - ne pas être partisan mais ne pas être neutre
+              - désaccords techniques nécessitant ample discussions
+
+            -> le contrat (open content), les outils (wiki)
 
             . montrer:
             # Feature sound ethical principles
@@ -526,7 +571,7 @@
             . certains outils sont nécessaires
 
             => il faut:
-                - une éthique cohérente
+                - une éthique claire et cohérente
                 - l'ouverture à tous et la transparence du fonctionnement (jusque dans sa simplicité)
                 - une organisation légère fondée sur la confiance
 
@@ -560,6 +605,10 @@
       <section>
         <h2>Proposition d'application au domaine politique</h2>
         <!-- 
+          - l'élément fondamental de la politique sur internet n'est pas l'ami mais le groupe.
+          - polity.coop
+        
+        
           - la charte fondamentale
             . non-partisan mais non-neutre
             . ouvert à tous
