@@ -597,30 +597,49 @@
           leur permettant d'éviter ces dérangements soit en raisonnant avec les personnes en question, soit
           en les excluant des outils utilisés.
         </p>
-        <!-- 
-          . l'ouverture n'existe pas sans transparence
-          . tout est public, transparent, et surtout archivé
-          - l'ouverture à tous et la transparence du fonctionnement (jusque dans sa simplicité)
-          "Wikis take on one of the most basic questions of political philosophy: 
-           Who will guard the guardians? Their answer is, everyone."
-              Here Comes Everybody (Clay Shirky) - Highlight Loc. 3463 | Added on Tuesday, April 06, 2010, 09:31 AM
-        
-          . l'importance d'avoir une charte fondamentale guidant l'action de tous (promise+bargain)
-            car celle-ci sera employée même si de façon non-contraignante pour axer les conversations
-          - une éthique claire et cohérente
-
-          - une organisation légère fondée sur la confiance
-          . une structure simple (un processus), compréhensible par tous, est appliquée aux discussion et à l'élaboration
-            de la solution
-
-          . certains outils sont nécessaires
-        -->
         <p>
-
+          Non seulement la participation doit être ouverte, mais <em>les contenus doivent être publics,
+          le processus doit être transparent, et les discussions doivent être archivées.</em> Pris ensemble,
+          ces aspects permettent d'attirer de nouveaux contributeurs, de légitimer le fonctionnement du
+          système, et de retracer l'évolution du consensus. Ce sont les éléments constitutifs de la 
+          confiance qu'ont les participants dans la coproduction. Pour paraphraser Clay Shirky, c'est une
+          approche <q>d'une des questions les plus fondamentales de la philosophie politique: Qui garde les 
+          gardiens eux-mêmes? La réponse est tout le monde.</q>
+        </p>
+        <p>
+          De plus, <em>un projet de coproduction doit avoir une éthique claire et cohérente</em>. Pour l'Open
+          Source, si chaque projet construit progressivement sa propre culture il est toujours entendu au départ
+          que ce qui est produit répondra aux exigences du logiciel libre. Au sein de Wikipedia, toute contribution
+          est estimée à l'aulne de la neutralité et de la vérifiabilité. Pour les groupes du W3C, l'accessibilité
+          et l'internationalisation sont incontournables. Ces valeurs permettent de créer le consensus
+          de la communauté, de lui fournir un socle commun à partir duquel elle peut se développer. À un niveau plus
+          simple, elles permettent aussi la mise en place d'une étiquette guidant les interactions entre des
+          participants qui souvent ne se connaissent pas par ailleurs.
+        </p>
+        <p>
+          <em>L'organisation de chaque projet doit être légère et fondée sur la confiance</em>. Un processus simple,
+          dont il est important qu'il soit compréhensible aisément par tous, structure de façon minimale les
+          discussions et l'élaboration du projet. Si le processus est trop lourd, il freinera le travail, rebutera
+          les nouveaux participants, et donnera trop de poids à l'ancienneté. À l'inverse une approche légère lève
+          les barrières à la participation (surtout pour ceux qui ne souhaitent effectuer qu'un brève contribution)
+          et aide à la transparence du système.
+        </p>
+        <p>
+          Finalement, <em>il est nécessaire que des outils correspondants à la fois au mode de fonctionnement du système
+          et aux spécificités du contenu produit soient disponibles.</em> Si ce point est placé en dernier c'est
+          parce qu'il est trop souvent pris comme point de départ. Le succès de Wikipedia ne découle pas tant du wiki
+          (d'autres solutions d'édition distribuées seraient envisageables) que du processus qui l'entoure, et mettre
+          en ligne un wiki sans comprendre le reste du système en s'attendant à un effet similaire est une approche
+          vouée à l'échec.
         </p>
       </section>
       <section>
         <h2>Proposition d'application au domaine politique</h2>
+        <p>
+          Les enseignements que nous avons retenus dans la section précédente sont simple à comprendre, mais
+          la création d'un système les mettant en exergue n'est pas pour autant facile. Nous proposons ici
+          l'ébauche d'une approche que nous espérons pouvoir raffiner de façon collective.
+        </p>
         <!-- 
           - polity.coop
         
@@ -631,8 +650,9 @@
               peut très bien être communautaire. il est notamment important que des personnes ne s'intéressant qu'à
               un seul sujet puissent y participer sans barrière particulière et sans se sentir absorbée dans un projet
               plus large ou donner l'impression qu'elles soutiennent nécessairement les conclusions des autres groupes
+            . [reprendre les autres points]
           
-          - la charte fondamentale
+          - la charte fondamentale (éthique claire et cohérente)
             . non-partisan mais non-neutre
             . ouvert à tous
             . quelques valeurs de base
@@ -661,16 +681,6 @@
              or participating in this group? Will enough other people feel as I do to make it take off?"
                 Here Comes Everybody (Clay Shirky) Loc. 3348-49
             
-        -->
-        <p>
-
-        </p>
-      </section>
-      <section>
-        <h2>Conclusion</h2>
-        <!-- 
-          - plus tard
-          - une conclusion est-elle nécessaire après le plan d'action?
         -->
         <p>
 
