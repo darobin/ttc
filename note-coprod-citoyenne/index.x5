@@ -9,7 +9,7 @@
   <body>
     <!-- 
     XXX TODO
-      - ne pas dire que Open Government n'est pas défini — plutôt, c'est en cours de définition
+      - ne pas dire que Open Government/Politics n'est pas défini — plutôt, c'est en cours de définition
       - parler de la différence avec la démocratie directe?
       - parler plus des outils. Notamment, les adapter à ce qui doit être coproduit. Pour des logiciels,
         le modèle Open Source, pour le l'open data autre chose, pour la coproduction de politique, du texte structuré,
@@ -669,7 +669,7 @@
         </p>
       </section>
       <section>
-        <h2>Proposition d'application au domaine politique</h2>
+        <h2>Ébauche d'une application concrète</h2>
         <p>
           Les enseignements que nous avons retenus dans la section précédente sont simples à comprendre, mais
           la création d'un système les mettant en exergue n'est pas pour autant facile. Nous proposons ici
@@ -688,7 +688,6 @@
           permettra de s'appuyer sur les compétences de la communauté des spécialistes de technologies Web qui
           souhaitent contribuer à la politique. C'est une communauté riche et vivace.
         </p>
-        <!-- outils minimaux -->
         <p>
           Il s'agit ensuite d'élaborer un ensemble de règles de fonctionnement permettant la collaboration 
           participative la plus large et la plus efficace possible. Tout d'abord, le contenu produit doit
@@ -718,43 +717,41 @@
           en intervenant pour résoudre les inévitables disputes. Les médiateurs doivent émerger de la communauté,
           mais pour cet aspect aussi il faudra amorcer la pompe au départ.
         </p>
+        <p>
+          Une liste de discussion via email est disponible pour chaque groupe, et c'est le moyen principal 
+          d'échange entre membres. Chaque contribution qui y est faite est archivée sur le site de l'organisation
+          et publiquement disponible, ce qui permet à chacun de se référer à l'historique des discussions du
+          groupe. Il est possible pour un groupe de faire appel à d'autres canaux de discussion, mais ceux-ci
+          doivent aussi être archivés. Par exemple, si le groupe utilise un “chat” collectif pour discuter en 
+          temps réel, ce qui y est dit doit être placé en ligne. Si une réunion en face à face est organisée,
+          des notes doivent être prises sur son contenu et envoyées à la liste de discussion.
+        </p>
+        <p>
+          Chaque groupe est à même de publier des documents traitant de son domaine d'intervention. Un outillage
+          est mis à leur disposition à cet effet qui permet une édition collaborative, structurée, et gardant
+          la trace de toutes les modifications effectuées. Si une grande partie des caractéristiques des
+          wikis doit être adoptée, il est possible de les rendre plus conviviaux de sorte à ce que les utilisateurs
+          habitués aux logiciels de traitement de texte traditionnels puissent s'y adapter sans grande difficulté.
+        </p>
+        <p>
+          Un système de commentaire légèrement plus élaboré que ceux employés dans les blogs s'ajoutera à chacun
+          de ces documents afin de permettre à tous d'apposer des commentaires sur des parties spécifiques du
+          contenu. Contrairement à Wikipedia, il sera nécessaire de créer un compte sur le site de l'organisation
+          afin d'accéder aux fonctions d'édition et d'annotation — mais bien entendu l'ouverture d'un compte
+          sera ouverte à tous, et rendue rapide afin de minimiser l'effort nécessaire à la rédaction d'un
+          simple commentaire.
+        </p>
         <!-- 
-          
-          - outils
-            . édition structurée, comme un wiki amélioré
-            . listes de discussion par email
-            . archive publique de tout
-          
-          - chaque groupe doit définir ses critères de succès basés sur une confrontation au réel
-          
-          - des critères de qualité doivent exister pour l'élaboration de documents (proposition techniques, chiffrées)
-          
-          
-          - une expérimentation à minima devra être lancée avec un à trois groupes afin de raffiner le processus
-            avant de le généraliser
-          
-          
           - la charte fondamentale (éthique claire et cohérente)
             . non-partisan mais non-neutre
             . ouvert à tous
+            . consensus
             . quelques valeurs de base
-          
-          Un aspect fondamental de la charte est avant tout:
-            "The will to succeed, the grace to compromise."
-                —— One from Many: VISA and the Rise of Chaordic Organization, Dee Hock (Kindle edition location 2336)
-          
-          Charte fondamentale:
-            "What he did was to work out a message framed in big enough terms to inspire interest, yet achievable 
-             enough to inspire confidence. (This sweet spot is what Eric Raymond, the theorist of open source 
-             software, calls “a plausible promise.”)"
-                Here Comes Everybody (Clay Shirky) Loc. 263-65
-            
-          
-          À propos des outils (pas cité, même idée):
-            "As a result, users of social tools are making two related judgments: Will I like using this tool 
-             or participating in this group? Will enough other people feel as I do to make it take off?"
-                Here Comes Everybody (Clay Shirky) Loc. 3348-49
-            
+            - des critères de qualité doivent exister pour l'élaboration de documents (proposition techniques, chiffrées)
+            - chaque groupe doit définir ses critères de succès basés sur une confrontation au réel
+
+          - une expérimentation à minima devra être lancée avec un à trois groupes afin de raffiner le processus
+            avant de le généraliser
         -->
         <!--
           - polity.coop
