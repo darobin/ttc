@@ -104,3 +104,12 @@ blockquote::after {
     color:  #000;
 }
 
+.foot {
+    font-size: .83em;
+    vertical-align: super;
+}
+
+#footnotes li a {
+    font-size: .83em;
+    vertical-align: super;
+}

@@ -7,9 +7,60 @@
     <script src='../js/live-x5.js' type='text/javascript' charset='utf-8' class='remove'></script>
   </head>
   <body>
+    <!-- 
+    XXX TODO
+      - projet potentiel: Open311
+      - parler plus de Open Government (directement en intro: tout le monde en parle, on cherche comment faire)
+        et ne pas dire que ce n'est pas défini — plutôt, c'est en cours de définition
+      - parler de la différence avec la démocratie directe?
+      - parler plus des outils. Notamment, les adapter à ce qui doit être coproduit. Pour des logiciels,
+        le modèle Open Source, pour le l'open data autre chose, pour la coproduction de politique, du texte structuré,
+        etc. Il faut parler de la possibilité, au sein de la même structure, de produire des loi comme des apps. Ce
+        doit être une boîte à outil de la coproduction citoyenne.
+      - ne pas dire "bureaucratie"
+      - causer du DARD à coté de CDP: la capacité de proposition est très strictement limitée par le fonctionnement
+        technique
+      - mentionner que Open311 est probablement plus adapté que CDP, dans le même espace de valeur
+    -->
     <article>
       <section>
         <h2>Introduction</h2>
+        <p>
+          Les modalités de la gouvernance ouverte — l'Open Government — se cherchent sur plusieurs fronts.
+          Les <a href='http://data.gov/'>États-Unis</a> et le <a href='http://data.gov.uk'>Royaume-Uni</a> se 
+          sont lancés pleinement dans l'ouverture des données publiques (“Open Data”), entraînant derrière
+          eux beaucoup d'autres administrations à divers niveaux de responsabilité. Le système des concours
+          d'applications citoyennes qui permet aux structures gouvernantes de bénéficier à moindre coût de
+          l'ingéniosité d'une vaste communauté de développeurs d'applications se propage rapidement. Les
+          voies de retour permettant aux citoyens de signaler rapidement et efficacement les problèmes qu'ils
+          rencontrent à leurs communes connaissent un engouement grandissant. Et le Président Obama, après une
+          campagne ayant fait un usage exemplaire des technologies du Web, a fait de la gouvernance ouverte
+          une des pierres angulaires de son mandat au travers de multiples projets visant à mieux impliquer
+          les citoyens dans le fonctionnement de leur pays, comme par exemple 
+          l'<a href='http://opengov.ideascale.com/'>Open Government Brainstorming</a>.
+        </p>
+        <p>
+          Ces développements ne sont pas des phénomènes isolés. Il sont le reflet du fait que le Web permet
+          à des groupes indépendants, faiblement structurés, sans tutelle institutionnelle de prendre en
+          charge des projets de grande envergure sans rencontrer de barrières financières ou territoriales.
+          Il était naturel que cette évolution de la société se retrouve au niveau politique. Nous n'en sommes
+          cependant qu'aux balbutiements, et beaucoup reste à faire pour évoluer vers une réelle coproduction
+          citoyenne.
+        </p>
+        <p>
+          Qu'est-ce que la coproduction citoyenne?
+        </p>
+        <p>
+          ce qui manque:
+            - production de texte structurés
+            - force de proposition politique
+            - pas que de la technique, mais une participation plus élargie à tous les domaines de la société
+              c'est pour ça que nous nous focaliserons ici plus sur l'organisation de tels groupes que sur
+              des approches plus rodées comme par exemple l'utilisation de technologies Open Source pour
+              produire des services citoyens — même si ceux-ci entrent naturellement dans le domaine de la
+              coproduction citoyenne
+            nous regardons dans un premier temps quelques projets récent en France
+        </p>
         <!-- 
           - à rédiger à la fin
           - qu'est-ce que la coproduction citoyenne, quels sont ses buts?
@@ -22,7 +73,6 @@
             en évoluant l'existant sans le détruire. Qu'en est-il de la politique? Nous regardons ici comment
             il serait possible de reprendre certaines de ces idées pour la faire avancer.
             -> une typologie rapide de ces différentes approches serait utile.
-          - il faut citer l'appel du 22 Mars (je pense)
 
 
           "Now that it is possible to achieve large-scale coordination at low cost, a third category
@@ -36,15 +86,6 @@
            third alternative: action by loosely structured groups, operating without managerial 
            direction and outside the profit motive."
               —— Here Comes Everybody (Clay Shirky) Loc. 629-36
-
-          La question suivante est au cœur du problème ici, suivie de "quelle application politique 
-          peut-on en tirer?"
-          "The transition can be described in basic outline as the answer to two questions: Why has 
-           group action largely been limited to formal organizations? What is happening now to change that?"
-              —— Here Comes Everybody (Clay Shirky) Loc. 650-51
-
-          The essential advantage created by new social tools has been labeled “ridiculously easy group-forming” 
-          by the social scientist Seb Paquet. [where?]
 
         -->
         <p>

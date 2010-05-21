@@ -62,11 +62,35 @@
             $(".quote").before("“").after("”");
             // add word count
             this.wcount();
+
+            // footnotes
+            var $fn = $("<section id='footnotes' class='appendix'><h2>Notes</h2><ul/></section>");
+            var $fnls = $fn.find("ul");
+            $("article").append($fn);
+            $("a[href^='http:']").each(function (i, lnk) {
+                var $lnk = $(lnk);
+                var num = i + 1;
+                var $to = $("<span class='foot'>[<a></a>]</span>")
+                                .find("a")
+                                    .text(num)
+                                    .attr({href: "#fn-" + num, id: "back-" + num })
+                                .end();
+                $lnk.after($to);
+                var $bk = $("<li><a/> <span></span></li>")
+                                .find("a")
+                                    .text("^" + num)
+                                    .attr({href: "#back-" + num, id: "fn-" + num })
+                                .end()
+                                .find("span")
+                                    .text($lnk.attr("href"))
+                                .end();
+                $fnls.append($bk);
+            });
             
             // makeTOC
             var $ul = this.makeTOCAtLevel($("article"), [0], 1);
             if ($ul) {
-                var $toc = $("<section id='toc'/>").append("<h2 class='introductory'>Table des matières</h2>")
+                var $toc = $("<section id='toc' class='introductory'/>").append("<h2>Table des matières</h2>")
                                                    .append($ul);
                 $("article h1:first").after($toc);
             }
