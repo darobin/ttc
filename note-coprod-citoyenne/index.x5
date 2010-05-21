@@ -741,18 +741,34 @@
           sera ouverte à tous, et rendue rapide afin de minimiser l'effort nécessaire à la rédaction d'un
           simple commentaire.
         </p>
-        <!-- 
-          - la charte fondamentale (éthique claire et cohérente)
-            . non-partisan mais non-neutre
-            . ouvert à tous
-            . consensus
-            . quelques valeurs de base
-            - des critères de qualité doivent exister pour l'élaboration de documents (proposition techniques, chiffrées)
-            - chaque groupe doit définir ses critères de succès basés sur une confrontation au réel
-
-          - une expérimentation à minima devra être lancée avec un à trois groupes afin de raffiner le processus
-            avant de le généraliser
-        -->
+        <p>
+          En parallèle de l'outillage et des règles minimales organisant la vie des groupes de travail, il est
+          important que l'organisation se dote d'une documentation exprimant de façon claire et cohérente les
+          valeurs qui guident son action, et guident le travail de ses groupes. Le projet doit se poser comme
+          indépendant des contraintes partisanes, mais résolument dédié à la production de solutions concrètes,
+          fonctionnelles, efficaces, et réalistes. Il est ouvert à tous, sans discrimination aucune, mais fermera
+          la porte à ceux dont les actions cherchent délibérément à déranger son fonctionnement, ainsi qu'à
+          ceux qui porteront des propos haineux. Tout accord au sein d'un groupe s'effectue par consensus. Il faut
+          noter que le consensus n'est pas le compromis, il est le fruit de discussions cherchant à emporter la
+          conviction et non pas de marchandage.
+        </p>
+        <p>
+          Des critères de qualité, simples mais systématiquement appliqués, doivent exister pour guider l'élaboration
+          de documents. Les propositions se doivent d'être techniques là où c'est nécessaire, chiffrées quand c'est
+          possible. Chaque document se doit de définir ses critères de succès basés sur une confrontation au réel.
+        </p>
+        <p>
+          Une fois ces éléments en place et la machine lancée, ces règles, outils, et modalités de fonctionnement
+          pourront évoluer sous la responsabilité de la communauté créée autour du projet.
+        </p>
+        <p>
+          Mais cette mise en place, même dans une voilure relativement restreinte, représente un volume de travail
+          non-négligeable. Plutôt que de tout créer avant de tester le bon fonctionnement du système, il est
+          préférable de se confronter à la réalité au plus tôt. À cet effet, une expérimentation à minima utilisant
+          des outils et règles approximatifs sera rapidement lancée avec un à trois groupes travaillant sur des
+          sujets pouvant être traités dans un temps relativement court. Ceci permettra de raffiner le processus
+          avant de le généraliser.
+        </p>
         <!--
           - polity.coop
       
@@ -760,9 +776,6 @@
               - The lesson from Manutius’s life is that the future belongs to those who take the present for granted.
               - Revolution doesn’t happen when society adopts new technologies—it happens when society adopts new behaviors.
         -->
-        <p>
-
-        </p>
       </section>
     </article>
   </body>
