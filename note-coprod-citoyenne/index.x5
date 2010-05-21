@@ -19,6 +19,7 @@
       - causer du DARD à coté de CDP: la capacité de proposition est très strictement limitée par le fonctionnement
         technique
       - mentionner que Open311 est probablement plus adapté que CDP, dans le même espace de valeur
+      - pas "paraphraser" pour Clay, et mentionner Juvénal
     -->
     <article>
       <section>
@@ -429,11 +430,11 @@
             <dt>W3C (World Wide Web Consortium)</dt>
             <dd>
               <p>
-                Le W3C s'applique à définir les normes propres au Web, dont notamment HTML qui est le 
-                langage des pages; HTTP, le protocole qui permet aux navigateurs d'obtenir les informations
-                désirées par leurs utilisateurs; et bien d'autres technologies (CSS, SVG, PNG, DOM, XML, etc.)
-                qui sont utilisées à chaque instant par plusieurs milliards de personnes sans que ceux-ci
-                ne le sachent.
+                Le <a href='http://www.w3.org/'>W3C</a> s'applique à définir les normes propres au Web, dont 
+                notamment HTML qui est le langage des pages; HTTP, le protocole qui permet aux navigateurs 
+                d'obtenir les informations désirées par leurs utilisateurs; et bien d'autres technologies 
+                (CSS, SVG, PNG, DOM, XML, etc.) qui sont utilisées à chaque instant par plusieurs milliards 
+                de personnes, souvent sans que ceux-ci ne le sachent.
               </p>
               <p>
                 Plus structuré, le W3C est composé de membres payants (pour la plupart des sociétés privées)
@@ -670,38 +671,77 @@
       <section>
         <h2>Proposition d'application au domaine politique</h2>
         <p>
-          Les enseignements que nous avons retenus dans la section précédente sont simple à comprendre, mais
+          Les enseignements que nous avons retenus dans la section précédente sont simples à comprendre, mais
           la création d'un système les mettant en exergue n'est pas pour autant facile. Nous proposons ici
           l'ébauche d'une approche que nous espérons pouvoir raffiner de façon collective.
         </p>
+        <p>
+          Afin de donner un cadre au projet, une <strong>organisation hôte</strong> (à but non-lucratif) doit être 
+          établie. Les besoins de celle-ci sont fortement limités, elle doit principalement se doter des moyens
+          d'assurer l'hébergement des outils qui permettent le fonctionnement du système. Dans un premier temps
+          une association loi 1901 dotée de quelques milliers d'euros peut suffire. S'y adjoignent des volontaires
+          compétents en technologies Web afin de mettre en place le minimum d'outillage nécessaire.
+        </p>
+        <p>
+          Dans le but d'assurer une évolution continuelle et une qualité optimale de l'infrastructure du projet,
+          l'ensemble des logiciels produits dans son cadre se doivent d'être disponibles sous licence libre. Ceci
+          permettra de s'appuyer sur les compétences de la communauté des spécialistes de technologies Web qui
+          souhaitent contribuer à la politique. C'est une communauté riche et vivace.
+        </p>
+        <!-- outils minimaux -->
+        <p>
+          Il s'agit ensuite d'élaborer un ensemble de règles de fonctionnement permettant la collaboration 
+          participative la plus large et la plus efficace possible. Tout d'abord, le contenu produit doit
+          être sous licence ouverte — étant produit collectivement, il doit pouvoir être réapproprié par tout 
+          un chacun. La solution la plus simple est probablement d'appliquer la même licence que celle utilisée
+          par Wikipedia qui est de type <a href="http://creativecommons.org/">Creative Commons</a> par 
+          attribution. Celle-ci permet la réutilisation et la modification du contenu à toutes fins tant que
+          son origine est citée et qu'il est redistribué selon des termes identiques.
+        </p>
+        <p>
+          Le travail s'organise en groupes autour de sujets clairement délimités, et vient se greffer à chaque
+          groupe qui le désire. Il est probablement utile que la mise en place de chaque sujet soit coordonnée 
+          pour éviter les doublons, les hors-sujet, et maintenir une cohérence minimale. Le mécanisme de cette
+          coordination devra à terme être communautaire (l'appréciation en étant laissée à une méritocratie 
+          émergente); au départ, les initiateurs du projet devront remplir cet office.
+        </p>
+        <p>
+          Les groupes doivent opérer de façon indépendantes les uns des autres. Il est notamment important que des 
+          personnes ne s'intéressant qu'à un seul sujet puissent participer à un groupe sans se soucier du travail
+          des autres, sans se sentir embrigadées dans un projet plus large, et surtout sans qu'il existe la moindre
+          indication que la participation à un groupe donné doive impliquer l'adhésion aux conclusions d'autres
+          groupes.
+        </p>
+        <p>
+          Chaque groupe doit avoir un médiateur (ou plusieurs) dont le rôle est de faciliter le déroulement des
+          discussions, de vérifier que les règles sont bien suivies, et de maintenir la courtoisie des échanges
+          en intervenant pour résoudre les inévitables disputes. Les médiateurs doivent émerger de la communauté,
+          mais pour cet aspect aussi il faudra amorcer la pompe au départ.
+        </p>
         <!-- 
-          - polity.coop
-        
-          - sur la base des enseignements de la section précédente:
-            . s'organiser autour de sujets clairement délimités auxquels viennent se greffer ceux qui le désirent
-              il est probablement utile que la mise en place de chaque sujet soit coordonnée pour éviter les
-              doublons, les hors-sujet, et maintenir une cohérence minimale. le mécanisme de cette coordination
-              peut très bien être communautaire. il est notamment important que des personnes ne s'intéressant qu'à
-              un seul sujet puissent y participer sans barrière particulière et sans se sentir absorbée dans un projet
-              plus large ou donner l'impression qu'elles soutiennent nécessairement les conclusions des autres groupes
-            . [reprendre les autres points]
+          
+          - outils
+            . édition structurée, comme un wiki amélioré
+            . listes de discussion par email
+            . archive publique de tout
+          
+          - chaque groupe doit définir ses critères de succès basés sur une confrontation au réel
+          
+          - des critères de qualité doivent exister pour l'élaboration de documents (proposition techniques, chiffrées)
+          
+          
+          - une expérimentation à minima devra être lancée avec un à trois groupes afin de raffiner le processus
+            avant de le généraliser
+          
           
           - la charte fondamentale (éthique claire et cohérente)
             . non-partisan mais non-neutre
             . ouvert à tous
             . quelques valeurs de base
-          - l'organisation du système
-          - les outils
-            . la prise en compte des petites contributions
-          - l'expérimentation
-          - tenter d'équilibrer les groupes
-          - l'importance du concret: des proposition techniques, chiffrées
           
           Un aspect fondamental de la charte est avant tout:
             "The will to succeed, the grace to compromise."
                 —— One from Many: VISA and the Rise of Chaordic Organization, Dee Hock (Kindle edition location 2336)
-          
-          Il s'agit de créer ce que Tim O’Reilly appelle "an architecture of participation" [find where]
           
           Charte fondamentale:
             "What he did was to work out a message framed in big enough terms to inspire interest, yet achievable 
@@ -716,35 +756,19 @@
                 Here Comes Everybody (Clay Shirky) Loc. 3348-49
             
         -->
+        <!--
+          - polity.coop
+      
+            Here Comes Everybody (Clay Shirky)
+              - The lesson from Manutius’s life is that the future belongs to those who take the present for granted.
+              - Revolution doesn’t happen when society adopts new technologies—it happens when society adopts new behaviors.
+        -->
         <p>
 
         </p>
       </section>
     </article>
   </body>
-
-  <!--
-    Hume, On Parties In General
-    http://www.econlib.org/library/LFBooks/Hume/hmMPL8.html
-  
-    CITATIONS
-
-      "Relationships between even two people who live or work together is far too complex to allow 
-       agreement much beyond intent, sense of direction, and principles of conduct."
-          —— One from Many: VISA and the Rise of Chaordic Organization (Dee Hock)
-              (Kindle edition location 860-61)
-
-      Here Comes Everybody (Clay Shirky)
-        - The lesson from Manutius’s life is that the future belongs to those who take the present for granted.
-        - Revolution doesn’t happen when society adopts new technologies—it happens when society adopts new behaviors.
-
-"How would you locate the organization? How would you contact it? If you requested 
- literature, how long would it take to arrive, and by the time it got there, would 
- you still be in the mood? No one of these barriers to action is insurmountable, 
- but together they subject the desire to act to the death of a thousand cuts."
-    Here Comes Everybody (Clay Shirky) Loc. 1944-46
-
-  -->
 </html>
 
 
