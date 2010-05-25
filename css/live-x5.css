@@ -113,3 +113,27 @@ blockquote::after {
     font-size: .83em;
     vertical-align: super;
 }
+
+@media print {
+    html, body {
+        background: #fff;
+    }
+
+    article {
+        margin: 2em auto;
+        border: none;
+        width:  auto;
+        padding:    2cm;
+        -moz-box-shadow:    none;
+    }
+    #wcount {
+        display:    none;
+    }
+
+    a {
+        color:  #000;
+    }
+    .toc a {
+        color:  #000;
+    }
+}
