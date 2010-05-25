@@ -30,25 +30,25 @@
           sont lancés pleinement dans l'ouverture des données publiques (“Open Data”), entraînant derrière
           eux beaucoup d'autres administrations à divers niveaux de responsabilité. Le système des concours
           d'applications citoyennes qui permet aux structures gouvernantes de bénéficier à moindre coût de
-          l'ingéniosité d'une vaste communauté de développeurs d'applications se propage rapidement. Les
-          voies de retour permettant aux citoyens de signaler rapidement et efficacement les problèmes qu'ils
-          rencontrent à leurs communes connaissent un engouement grandissant. Et le Président Obama, après une
-          campagne ayant fait un usage exemplaire des technologies du Web, a fait de la gouvernance ouverte
-          une des pierres angulaires de son mandat au travers de multiples projets visant à mieux impliquer
-          les citoyens dans le fonctionnement de leur pays, comme par exemple 
-          l'<a href='http://opengov.ideascale.com/'>Open Government Brainstorming</a>.
+          l'ingéniosité d'une vaste communauté de développeurs sachant appliquer leur technique à de nouveaux domaines
+          se propage rapidement. Les voies de retour permettant aux citoyens de signaler immédiatement et 
+          efficacement les problèmes qu'ils rencontrent à leurs communes connaissent un engouement 
+          grandissant. Et le Président Obama, après une campagne ayant fait un usage exemplaire des 
+          technologies du Web, a fait de la gouvernance ouverte une des pierres angulaires de son 
+          mandat au travers de multiples projets visant à mieux impliquer les citoyens dans le fonctionnement 
+          de leur pays, comme par exemple l'<a href='http://opengov.ideascale.com/'>Open Government Brainstorming</a>.
         </p>
         <p>
           Ces développements ne sont pas des phénomènes isolés. Il sont le reflet du fait que le Web permet
-          à des groupes indépendants, faiblement structurés, sans tutelle institutionnelle de prendre en
+          à des groupes indépendants, faiblement structurés, et sans tutelle institutionnelle de prendre en
           charge des projets de grande envergure sans rencontrer de barrières financières ou territoriales.
           Il était naturel que cette évolution de la société se retrouve au niveau politique. Nous n'en sommes
-          cependant qu'aux balbutiements, et beaucoup reste à faire pour évoluer vers une réelle coproduction
-          citoyenne.
+          cependant qu'aux balbutiements de ce changement, et beaucoup reste à faire pour évoluer vers une 
+          réelle coproduction citoyenne.
         </p>
         <p>
           Qu'entendons-nous par “coproduction citoyenne”? C'est un service ou un contenu axé sur la Cité et
-          produit par les citoyens soit simplement entre eux, soit en rapport avec une administration. Certaines
+          produit par les citoyens soit simplement entre eux, soit en rapport direct avec une administration. Certaines
           formes, notamment associatives, existent depuis longtemps et sont bien ancrées dans le tissu social.
           Mais le degré et la simplicité de coordination, ainsi que la capacité de diffusion, rendus possible 
           par l'entremise du Web sont tels que la nature des coproductions possibles évolue jusqu'à couvrir
@@ -64,7 +64,7 @@
           petite communauté de citoyens passionnés, c'est une coproduction citoyenne.
         </p>
         <p>
-          Mais ces réalisations ne sont que de premiers pas. Les projets existants sont plus souvent plus
+          Mais ces réalisations ne sont que des premiers pas. Les projets existants sont le plus souvent plutôt
           unidirectionnels, exposant une information cachée ou mal diffusée, que coopératifs. Quand un 
           aspect participatif est présent, il est souvent très limité, et beaucoup de ces projets
           requièrent pour participer à leur production une connaissance relativement avancée des
@@ -72,7 +72,7 @@
           Wikipedia montrent que ces limitations ne sont pas nécessaires. Il nous appartient donc de chercher
           les façons de libérer pour l'espace politique les énergies de la coproduction citoyenne, et de
           donner les moyens à des groupes distribués de citoyens de collaborer entre eux afin de se 
-          transformer en réelle force de proposition politique par le biais de la production de textes
+          transformer en réelles forces de proposition politique par le biais de la production de textes
           qui pourront être complexes et structurés, allant peut-être jusqu'à la rédaction de propositions
           de loi.
         </p>
@@ -107,7 +107,7 @@
           plus facilement leur place en dehors de ceux-ci.
         </p>
         <p>
-          Si les outils participatifs ont deux autres effets sur la vie politique qui nous intéresseront
+          Les outils participatifs ont deux effets principaux sur la vie politique qui nous intéresseront
           ici car ils touchent à l'activation de groupes dont l'intérêt pour la politique est réel mais
           dont la participation demeure largement latente.
         </p>
@@ -122,7 +122,7 @@
         </p>
         <p>
           D'autre part ces outils permettent la collaboration entre individus n'étant d'accords que
-          sur un seul sujet. L'alignement idéologique (réel ou perçu) qui constitue une barrière à la 
+          sur un seul sujet. L'alignement idéologique (réel ou perçu) qui constitue pour certains une barrière à la 
           contribution à un parti (voire à une association) cesse d'être un problème quand le coût
           de création et de coordination d'un groupe chute tellement bas qu'il est possible de créer
           une structure dont le sujet est un faisceau extrêmement étroit. S'il peut être tentant de
@@ -131,11 +131,17 @@
           là où il est et de se donner les moyens d'y fonder une réelle force de proposition citoyenne.
         </p>
         <p>
-          Il existe dans le paysage politique français deux sites qui s'essaient à explorer ce territoire
-          nouveau de la coproduction politique sur le Web: <a href='http://www.lacoopol.fr/'>La CooPol</a>
-          (ou “Coopérative Politique”) et <a href='http://www.lescreateursdepossibles.com/'>Les Créateurs
-          de Possibles</a> (que nous nommerons ci-après “CDP”). Un rapide survol nous permettra de voir
-          comment ils s'attaquent à ce problème et quels espaces demeurent libres.
+          Il existe dans le paysage politique français plusieurs sites, principalement (mais pas uniquement)
+          produits par les partis politiques, qui s'essaient à explorer ce territoire nouveau de la politique
+          sur le Web. Ils s'attaquent à cette question par deux angles qui sont d'une part la création d'un
+          réseau social autour d'un parti ou d'une famille politique, et d'autre part l'élaboration par les
+          citoyens de propositions ouvertes sur les sujets de leurs choix. Plutôt que de les passer tous en
+          revue, nous nous limiterons à deux sites représentatifs de ces tendances que sont
+          <a href='http://www.lacoopol.fr/'>La CooPol</a> (ou “Coopérative Politique”) et 
+          <a href='http://www.lescreateursdepossibles.com/'>Les Créateurs de Possibles</a> (que nous nommerons 
+          ci-après “CDP”). Un rapide survol nous permettra de voir comment ils s'attaquent à ce problème,
+          ce en quoi il peuvent réussir, et ce qu'il reste à faire dans l'optique de développer
+          la coproduction citoyenne.
         </p>
         <section>
           <h2>La CooPol</h2>
@@ -143,14 +149,14 @@
             L'objectif de la CooPol est simple: être un réseau social pour <q>tous ceux qui veulent débattre et 
             agir à gauche</q>, lequel veut fournir <q>une nouvelle génération d'outils d’organisation et de 
             mobilisation politique pour échanger en ligne et agir sur le terrain.</q> L'inscription est ouverte
-            à tous mais militants du Parti Socialiste et simples citoyens ne verront pas le même contenu.
+            à tous mais militants du Parti Socialiste et simples sympathisants ne verront pas le même contenu.
           </p>
           <p>
             Les fonctions disponibles à tous en font un site social classique: amis (ou <q>coopains</q>),
             groupes, fil d'information sur ses amis, messages, blog, évènements; et il est aussi possible
             de rejoindre des sections virtuelles du PS. Le site se démarque surtout de par les outils qui
             ne sont accessibles qu'aux militants. Par exemple, durant les régionales de 2010 le fichier
-            des absentéistes a été utilisé pour permettre aux militants de savoir dans quelles zones
+            des abstentionnistes a été utilisé pour permettre aux militants de savoir dans quelles zones
             géographiques il pouvaient avoir le plus d'influence en motivant les électeurs à se déplacer.
             Par contre, bien que la page d'accueil mentionne la coproduction, aucun outillage afférent
             n'est proposé et les capacités rédactionnelles fournies ne permettent pas de collaborer afin
@@ -170,8 +176,8 @@
           <h2>Les Créateurs de Possibles</h2>
           <p>
             Les Créateurs de Possibles est un site édité par l'Union pour un Mouvement Populaire (UMP)
-            qui se présente comme <q>un réseau citoyen</q> permettant à chacun de <q>passer à l'action</q> 
-            sans requérir une quelconque affiliation politique. Il propose lui aussi des fonctions
+            qui se présente comme <q>un réseau citoyen</q> permettant à chacun de <q>passer à l'action</q>, 
+            en théorie sans requérir une quelconque affiliation politique. Il propose lui aussi des fonctions
             classiques de site social: amis, messages, ou encore organisation d'évènements. Mais une
             application majeure régit le site: les initiatives. Celles-ci se décrivent d'un titre, d'une photo
             ou vidéo, et d'un texte de 600 caractères maximum. Une fois une initiative créée, il est possible 
@@ -191,11 +197,18 @@
           <p>
             D'autre part les limitations strictes sur le contenu des initiatives (600 signes correspondant
             à un bref paragraphe) empêchent l'élaboration de propositions plus complexes qu'une très simple
-            action. Si l'idée des initiatives n'est pas nécessairement mauvaise, il y a lieu de se demander
+            action. De plus, une fois le texte d'une initiative rédigé il est impossible, même pour son
+            initiateur, de le changer. Ceci exclut toute possibilité de la faire évoluer selon les réactions
+            d'autres internautes, et donc l'utilité qu'il pourrait y avoir à commenter les initiatives des
+            autres, à en débattre.
+          </p>
+          <p>
+            Si l'idée des initiatives n'est pas nécessairement mauvaise, il y a lieu de se demander
             si cette approche ne serait pas plus heureuse si elle se détachait complètement de toute
             optique partisane et était plus clairement placée dans un contexte local, par exemple en faisant
             que chaque initiative soit liée à un échelon territorial le plus réduit possible. Ce pourrait être 
-            un outil utile par exemple pour faire remonter des doléances communales.
+            un outil utile par exemple pour faire remonter des doléances municipales, possiblement en lien
+            avec un service <a href='http://open311.org/'>Open311</a>.
           </p>
         </section>
         <section>
@@ -214,11 +227,11 @@
               <p>
                 C'est la raison qui amène un utilisateur à vouloir se servir d'un outil social, sachant
                 que cette action lui coûte ne serait-ce que du temps. Il doit comprendre ce à quoi le service
-                et lui-même s'engagent, et ce qu'ils tireront respectivement de cette interaction.
+                et lui-même s'engagent mutuellement, et ce qu'ils tireront respectivement de cette interaction.
                 Un contrat réussi demande à ce que l'utilisateur obtienne quelque chose de son utilisation
                 de l'outil (ne serait-ce que de la fierté), et qu'il n'aie pas l'impression que le responsable
                 du service récupérera ses contributions à des fins qu'il ne cautionne pas. Il est aussi nécessaire
-                que l'utilisateur ait l'impression qu'il ne sera pas le seul à participer, ce sans quoi la dimension
+                que l'utilisateur pense qu'il ne sera pas le seul à participer, ce sans quoi la dimension
                 sociale n'existe plus.
               </p>
             </dd>
@@ -242,12 +255,14 @@
             libérées.
           </p>
           <p>
-            Au niveau de l'outillage, nous constatons que les approches choisies à ce jour en France ont été
+            Au niveau de l'outillage, nous constatons que les approches choisies à ce jour pour ces projets ont été
             principalement modelées sur les réseaux sociaux. Ceux-ci ont fait la preuve de leur grande capacité 
             mobilisatrice, il n'est donc pas surprenant de voir les partis politiques traditionnels graviter
             vers ces solutions. Mais ces propositions ne permettent pas en leurs états actuels de passer
-            à une coproduction citoyenne du politique. Nous allons donc nous pencher sur les systèmes
-            de coproduction existants pour déceler les éléments qui pourraient s'appliquer au domaine
+            à une coproduction citoyenne du politique. Par exemple, le <a href='http://www.le-dard.com/'>D.A.R.D.</a>, 
+            qui fonctionne selon un principe proche de celui des CDP mais en se déclarant détaché des partis, 
+            souffre des mêmes limitations d'outillage. Nous allons donc nous pencher sur les systèmes
+            de coproduction existants et réussis pour déceler les éléments qui pourraient s'appliquer au domaine
             politique.
           </p>
         </section>
@@ -258,9 +273,10 @@
           En dehors de la sphère politique, plusieurs systèmes de coproduction se sont développés en accompagnement
           de la démocratisation progressive d'Internet au cours de ces dernière décennies. Ces systèmes ont
           en commun leur ouverture, laquelle se retrouve dans leurs noms: “<em>Open Source</em>”, “<em>Open Content</em>”, 
-          “<em>Open Standards</em>” (si le terme “<em>Open Politics</em>” existe, son contenu reste encore
-          mal défini). Les détails de leurs fonctionnement diffèrent cependant, nous les analyserons
-          donc rapidement afin d'essayer d'en tirer des applications au domaine politique.
+          “<em>Open Standards</em>”. Ce n'est donc pas une coïncidence si nous assistons à la naissance du nouveau
+          label “<em>Open Government</em>” dont les contours effervescent se définissent peu à peu. Les détails de 
+          des fonctionnements de ces systèmes ouverts diffèrent cependant, nous les analyserons donc séparément 
+          afin d'essayer d'en extraire les aspects essentiels.
         </p>
         <section>
           <h2>Le mouvement Open Source</h2>
@@ -287,12 +303,12 @@
           </p>
           <p>
             La communauté qui se crée ainsi est rarement très structurée, même pour les grands projets. Il
-            n'est pas rare que tous fonctionnent en égaux, une prépondérance étant souvent donnée à
+            n'est pas rare que tous fonctionnent en égaux, une voix prépondérante étant souvent accordée à
             l'initiateur du projet (on parle dans ce cas de “dictateur bienveillant”).
           </p>
           <p>
             Le contrat tacite est simple: chacun améliore un produit que tous utilisent, et la licence
-            garantit que nul ne pourra se l'approprier en privant les participants de leurs contributions.
+            garantit que nul ne pourra se l'approprier en privant les autres participants de leurs contributions.
             De surcroît, c'est souvent un très bon moyen pour chaque contributeur de se faire une bonne
             réputation, ainsi que d'apprendre de nouvelles techniques en partageant ses connaissances propres.
           </p>
