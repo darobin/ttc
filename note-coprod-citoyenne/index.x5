@@ -9,17 +9,11 @@
   <body>
     <!-- 
     XXX TODO
-      - ne pas dire que Open Government/Politics n'est pas défini — plutôt, c'est en cours de définition
       - parler de la différence avec la démocratie directe?
       - parler plus des outils. Notamment, les adapter à ce qui doit être coproduit. Pour des logiciels,
         le modèle Open Source, pour le l'open data autre chose, pour la coproduction de politique, du texte structuré,
         etc. Il faut parler de la possibilité, au sein de la même structure, de produire des loi comme des apps. Ce
         doit être une boîte à outil de la coproduction citoyenne.
-      - ne pas dire "bureaucratie"
-      - causer du DARD à coté de CDP: la capacité de proposition est très strictement limitée par le fonctionnement
-        technique
-      - mentionner que Open311 est probablement plus adapté que CDP, dans le même espace de valeur
-      - pas "paraphraser" pour Clay, et mentionner Juvénal
     -->
     <article>
       <section>
@@ -584,10 +578,10 @@
           </p>
           <p>
             C'est une chose que d'être ouvert, c'en est une autre que d'être transparent et accessible. Malgré
-            une volonté réelle d'ouverture, les organismes de normalisation ouvertes se révèlent souvent
+            une volonté réelle d'ouverture, les organismes de normalisation ouverte se révèlent souvent
             difficiles d'accès pour trop de participants potentiels. La raison principale de ces difficultés
             est que leurs processus, qu'ils soient formellement codifiés ou simplement le produit d'une lente
-            accrétion de codes sociaux informels, sont fréquemment perçus comme lourds ou opaques par les
+            accrétion de codes culturels informels, sont fréquemment perçus comme lourds ou opaques par les
             nouveaux arrivants. Cette complexité non seulement rebute des participants, mais aussi donne un
             avantage indu aux participants expérimentés en leur permettant parfois de prendre le dessus sur
             d'autres par des argumentations fondées plus sur la forme que sur le fond. Et même quand ces 
@@ -603,7 +597,7 @@
         <p>
           Les systèmes de coproduction ouverte fonctionnent. Que ce soit pour la création de logiciels
           universellement utilisés, de la meilleure source encyclopédique disponible, ou des normes
-          qui forment l'infrastructure des technologies de l'Internet, elles ont fait leurs preuves.
+          qui forment l'infrastructure des technologies de l'Internet, ils ont fait leurs preuves.
           Avec comme objectif la coproduction citoyenne de la politique, en analysant les limites de 
           ce qui a été réalisé dans le domaine politique à ce jour et les réussites de ces systèmes 
           coproductifs, nous pouvons tirer les enseignements qui suivent.
@@ -613,15 +607,16 @@
           l'adhésion à un projet</em>. Les réseaux sociaux tels que classiquement compris se construisent
           sur la base de listes d'“amis”, qu'elles soient réciproques (Facebook) ou unidirectionnelles
           (Twitter). Si ceux-ci peuvent, en fournissant un véhicule à la dissémination et à la 
-          communication, permettre une coordination des actions des partis bien plus efficace qu'auparavant,
-          ils ne semblent pas adaptés à la coproduction: il n'y a pas de réseau social sur lequel s'est
-          réalisée une coproduction d'envergure, et à l'inverse les systèmes de coproduction réussis ne
-          sont pas des réseaux sociaux, du moins pas au sens commun de ce terme. L'approche de ces derniers
-          et de définir des projets (un composant logiciel, un article sur un sujet donné, une norme pour
-          un domaine particulier) auxquels des participants volontaires vont décider de contribuer. Bien
-          entendu, durant l'élaboration d'un projet il est fort probable que des liens se tissent mais ceux-ci
-          ne sont en rien nécessaire au bon fonctionnement de celui-ci, et il n'est pas rare que des participants
-          ne se connaissent pas entre eux, voire qu'ils ne s'apprécient guère en dehors de cet objectif qu'ils
+          communication, permettre une coordination des actions des partis et de la société civile bien 
+          plus efficace qu'auparavant, ils ne semblent pas adaptés à la coproduction: il n'y a pas de 
+          réseau social sur lequel s'est réalisée une coproduction d'envergure, et à l'inverse les systèmes 
+          de coproduction réussis ne sont pas des réseaux sociaux, du moins pas au sens commun que revêt ce 
+          terme. L'approche des systèmes de coproduction est de définir des projets (un composant logiciel, 
+          un article sur un sujet donné, une norme pour un domaine particulier) auxquels des participants 
+          volontaires vont décider de contribuer. Bien entendu, durant l'élaboration d'un projet il est fort 
+          probable que des liens se tissent entre participants mais ceux-ci ne sont en rien nécessaires au bon
+          fonctionnement de celui-ci, et il n'est pas rare que des collaborateurs d'un même projet ne se 
+          connaissent pas entre eux, voire parfois qu'ils ne s'apprécient guère en dehors de cet objectif qu'ils
           ont en commun.
         </p>
         <p>
@@ -630,7 +625,7 @@
           dispute dont la durée menace l'émergence d'une solution, les personnes investies par le groupe
           de la responsabilité de son bon fonctionnement doivent être issues d'une méritocratie de
           participation qui fait consensus. De surcroît, si ces responsables se montrent biaisés ou
-          incompétents, le groupe doit pouvoir les remplacer.
+          incompétents, le groupe doit pouvoir les remplacer rapidement.
         </p>
         <p>
           <em>La facilité des “petites contributions” est essentielle.</em> Les projets coproductifs
@@ -653,9 +648,9 @@
           le processus doit être transparent, et les discussions doivent être archivées.</em> Pris ensemble,
           ces aspects permettent d'attirer de nouveaux contributeurs, de légitimer le fonctionnement du
           système, et de retracer l'évolution du consensus. Ce sont les éléments constitutifs de la 
-          confiance qu'ont les participants dans la coproduction. Pour paraphraser Clay Shirky, c'est une
-          approche <q>d'une des questions les plus fondamentales de la philosophie politique: Qui garde les 
-          gardiens eux-mêmes? La réponse est tout le monde.</q>
+          confiance qu'ont les participants dans la coproduction. Pour reprendre Clay Shirky répondant à
+          Juvénal, ce type d'approche s'attaque à <q>une des questions les plus fondamentales de la philosophie
+          politique: Qui garde les gardiens eux-mêmes? La réponse est tout le monde.</q>
         </p>
         <p>
           De plus, <em>un projet de coproduction doit avoir une éthique claire et cohérente</em>. Pour l'Open
@@ -688,103 +683,136 @@
         <h2>Ébauche d'une application concrète</h2>
         <p>
           Les enseignements que nous avons retenus dans la section précédente sont simples à comprendre, mais
-          la création d'un système les mettant en exergue n'est pas pour autant facile. Nous proposons ici
-          l'ébauche d'une approche que nous espérons pouvoir raffiner de façon collective.
+          la création d'un système les mettant en action n'est pas pour autant automatique. Nous proposons ici
+          l'ébauche à très gros traits d'une approche que nous avons l'intention de raffiner de façon collective.
+          Celle-ci est une hybride de l'édition de contenu telle qu'effectuée sur Wikipedia et
+          de la structuration légère par groupes de travail pratiquée par les organismes de normalisation ouverte.
+          Elle reprend des valeurs des trois systèmes décrits et les adapte au domaine politique.
         </p>
-        <p>
-          Afin de donner un cadre au projet, une <strong>organisation hôte</strong> (à but non-lucratif) doit être 
-          établie. Les besoins de celle-ci sont fortement limités, elle doit principalement se doter des moyens
-          d'assurer l'hébergement des outils qui permettent le fonctionnement du système. Dans un premier temps
-          une association loi 1901 dotée de quelques milliers d'euros peut suffire. S'y adjoignent des volontaires
-          compétents en technologies Web afin de mettre en place le minimum d'outillage nécessaire.
-        </p>
-        <p>
-          Dans le but d'assurer une évolution continuelle et une qualité optimale de l'infrastructure du projet,
-          l'ensemble des logiciels produits dans son cadre se doivent d'être disponibles sous licence libre. Ceci
-          permettra de s'appuyer sur les compétences de la communauté des spécialistes de technologies Web qui
-          souhaitent contribuer à la politique. C'est une communauté riche et vivace.
-        </p>
-        <p>
-          Il s'agit ensuite d'élaborer un ensemble de règles de fonctionnement permettant la collaboration 
-          participative la plus large et la plus efficace possible. Tout d'abord, le contenu produit doit
-          être sous licence ouverte — étant produit collectivement, il doit pouvoir être réapproprié par tout 
-          un chacun. La solution la plus simple est probablement d'appliquer la même licence que celle utilisée
-          par Wikipedia qui est de type <a href="http://creativecommons.org/">Creative Commons</a> par 
-          attribution. Celle-ci permet la réutilisation et la modification du contenu à toutes fins tant que
-          son origine est citée et qu'il est redistribué selon des termes identiques.
-        </p>
-        <p>
-          Le travail s'organise en groupes autour de sujets clairement délimités, et vient se greffer à chaque
-          groupe qui le désire. Il est probablement utile que la mise en place de chaque sujet soit coordonnée 
-          pour éviter les doublons, les hors-sujet, et maintenir une cohérence minimale. Le mécanisme de cette
-          coordination devra à terme être communautaire (l'appréciation en étant laissée à une méritocratie 
-          émergente); au départ, les initiateurs du projet devront remplir cet office.
-        </p>
-        <p>
-          Les groupes doivent opérer de façon indépendantes les uns des autres. Il est notamment important que des 
-          personnes ne s'intéressant qu'à un seul sujet puissent participer à un groupe sans se soucier du travail
-          des autres, sans se sentir embrigadées dans un projet plus large, et surtout sans qu'il existe la moindre
-          indication que la participation à un groupe donné doive impliquer l'adhésion aux conclusions d'autres
-          groupes.
-        </p>
-        <p>
-          Chaque groupe doit avoir un médiateur (ou plusieurs) dont le rôle est de faciliter le déroulement des
-          discussions, de vérifier que les règles sont bien suivies, et de maintenir la courtoisie des échanges
-          en intervenant pour résoudre les inévitables disputes. Les médiateurs doivent émerger de la communauté,
-          mais pour cet aspect aussi il faudra amorcer la pompe au départ.
-        </p>
-        <p>
-          Une liste de discussion via email est disponible pour chaque groupe, et c'est le moyen principal 
-          d'échange entre membres. Chaque contribution qui y est faite est archivée sur le site de l'organisation
-          et publiquement disponible, ce qui permet à chacun de se référer à l'historique des discussions du
-          groupe. Il est possible pour un groupe de faire appel à d'autres canaux de discussion, mais ceux-ci
-          doivent aussi être archivés. Par exemple, si le groupe utilise un “chat” collectif pour discuter en 
-          temps réel, ce qui y est dit doit être placé en ligne. Si une réunion en face à face est organisée,
-          des notes doivent être prises sur son contenu et envoyées à la liste de discussion.
-        </p>
-        <p>
-          Chaque groupe est à même de publier des documents traitant de son domaine d'intervention. Un outillage
-          est mis à leur disposition à cet effet qui permet une édition collaborative, structurée, et gardant
-          la trace de toutes les modifications effectuées. Si une grande partie des caractéristiques des
-          wikis doit être adoptée, il est possible de les rendre plus conviviaux de sorte à ce que les utilisateurs
-          habitués aux logiciels de traitement de texte traditionnels puissent s'y adapter sans grande difficulté.
-        </p>
-        <p>
-          Un système de commentaire légèrement plus élaboré que ceux employés dans les blogs s'ajoutera à chacun
-          de ces documents afin de permettre à tous d'apposer des commentaires sur des parties spécifiques du
-          contenu. Contrairement à Wikipedia, il sera nécessaire de créer un compte sur le site de l'organisation
-          afin d'accéder aux fonctions d'édition et d'annotation — mais bien entendu l'ouverture d'un compte
-          sera ouverte à tous, et rendue rapide afin de minimiser l'effort nécessaire à la rédaction d'un
-          simple commentaire.
-        </p>
-        <p>
-          En parallèle de l'outillage et des règles minimales organisant la vie des groupes de travail, il est
-          important que l'organisation se dote d'une documentation exprimant de façon claire et cohérente les
-          valeurs qui guident son action, et guident le travail de ses groupes. Le projet doit se poser comme
-          indépendant des contraintes partisanes, mais résolument dédié à la production de solutions concrètes,
-          fonctionnelles, efficaces, et réalistes. Il est ouvert à tous, sans discrimination aucune, mais fermera
-          la porte à ceux dont les actions cherchent délibérément à déranger son fonctionnement, ainsi qu'à
-          ceux qui porteront des propos haineux. Tout accord au sein d'un groupe s'effectue par consensus. Il faut
-          noter que le consensus n'est pas le compromis, il est le fruit de discussions cherchant à emporter la
-          conviction et non pas de marchandage.
-        </p>
-        <p>
-          Des critères de qualité, simples mais systématiquement appliqués, doivent exister pour guider l'élaboration
-          de documents. Les propositions se doivent d'être techniques là où c'est nécessaire, chiffrées quand c'est
-          possible. Chaque document se doit de définir ses critères de succès basés sur une confrontation au réel.
-        </p>
-        <p>
-          Une fois ces éléments en place et la machine lancée, ces règles, outils, et modalités de fonctionnement
-          pourront évoluer sous la responsabilité de la communauté créée autour du projet.
-        </p>
-        <p>
-          Mais cette mise en place, même dans une voilure relativement restreinte, représente un volume de travail
-          non-négligeable. Plutôt que de tout créer avant de tester le bon fonctionnement du système, il est
-          préférable de se confronter à la réalité au plus tôt. À cet effet, une expérimentation à minima utilisant
-          des outils et règles approximatifs sera rapidement lancée avec un à trois groupes travaillant sur des
-          sujets pouvant être traités dans un temps relativement court. Ceci permettra de raffiner le processus
-          avant de le généraliser.
-        </p>
+        <section>
+          <h2>Règles</h2>
+          <p>
+            Le contrat de la coproduction citoyenne est que chacun apporte ses observations et son expertise,
+            que ce soit de façon intensive ou ponctuelle, à l'élaboration de propositions visant à améliorer 
+            le lot de tous, suivant un processus fondé sur la création progressive de consensus entre des 
+            intervenants se joignant librement à un débat collectif.
+          </p>
+          <p>
+            Il s'agit donc d'élaborer un ensemble de règles de fonctionnement permettant la collaboration 
+            participative la plus large et la plus efficace possible. Tout d'abord, le contenu produit doit
+            être sous licence ouverte — étant produit collectivement, il doit pouvoir être réapproprié par tout 
+            un chacun. La solution la plus simple est probablement d'appliquer la même licence que celle utilisée
+            par Wikipedia, laquelle est de type “<a href="http://creativecommons.org/">Creative Commons</a> par 
+            attribution”. Celle-ci permet la réutilisation et la modification du contenu à toutes fins tant que
+            son origine est citée et qu'il est redistribué selon des termes identiques.
+          </p>
+          <p>
+            Le travail s'organise en groupes autour de sujets clairement délimités, et vient se greffer à chaque
+            groupe qui le désire. Il est utile que la mise en place de chaque sujet soit coordonnée 
+            pour éviter les doublons, les hors-sujet, et maintenir une cohérence minimale. Le mécanisme de cette
+            coordination devra à terme être communautaire (l'appréciation en étant laissée à une méritocratie 
+            émergente); au départ, les initiateurs du projet devront remplir cet office.
+          </p>
+          <p>
+            Les groupes doivent opérer de façon indépendante les uns des autres. Il est notamment important que des 
+            personnes ne s'intéressant qu'à un seul sujet puissent participer à un groupe sans se soucier du travail
+            des autres groupes, sans se sentir embrigadées dans un projet plus large, et surtout sans qu'il existe la moindre
+            indication que la participation à un groupe donné doive impliquer l'adhésion aux conclusions d'autres
+            groupes.
+          </p>
+          <p>
+            Chaque groupe doit avoir un médiateur (ou plusieurs) dont le rôle est de faciliter le déroulement des
+            discussions, de vérifier que les règles sont bien suivies, et de maintenir la courtoisie des échanges
+            en intervenant pour résoudre les inévitables disputes. Les médiateurs doivent émerger de la communauté,
+            mais pour cet aspect aussi il faudra que l'organisation amorce la pompe au départ.
+          </p>
+          <p>
+            Des critères de qualité, simples mais systématiquement appliqués, doivent exister pour guider l'élaboration
+            des documents produits. Les propositions se doivent d'être techniques là où c'est nécessaire, chiffrées quand c'est
+            possible. Chaque document se doit de définir ses critères de succès basés sur une confrontation au réel.
+          </p>
+        </section>
+        <section>
+          <h2>Outils</h2>
+          <p>
+            La partie la plus difficile dans l'élaboration d'un outil est de s'assurer qu'il est adapté à la tâche
+            à accomplir et au processus dans lequel celle-ci s'inscrit. À cet effet, plutôt que de tenter de
+            rédiger à priori un cahier des charges complet, nous préférons produire une simple liste des
+            fonctions les plus basiques qui seront requises, et procéder par la suite à un affinage progressif
+            répondant au besoins pratiques constatés lors de l'utilisation.
+          </p>
+          <p>
+            Une liste de discussion via email est disponible pour chaque groupe, et c'est le moyen principal 
+            d'échange entre membres. Chaque contribution qui y est faite est archivée sur le site de l'organisation
+            et publiquement disponible, ce qui permet à chacun de se référer à l'historique des discussions du
+            groupe. Il est possible pour un groupe de faire appel à d'autres canaux de discussion, mais ceux-ci
+            doivent aussi être archivés. Par exemple, si le groupe utilise un “chat” collectif pour discuter en 
+            temps réel, ce qui y est dit doit être placé en ligne de façon permanente. Si une réunion en face à 
+            face est organisée, des notes doivent être prises sur son contenu et envoyées à la liste de discussion
+            du groupe.
+          </p>
+          <p>
+            Chaque groupe est à même de publier des documents traitant de son domaine d'intervention. Un outillage
+            est mis à sa disposition à cet effet qui permet une édition collaborative, structurée, et gardant
+            la trace de toutes les modifications effectuées. Si une grande partie des caractéristiques des
+            wikis (édition simultanée à plusieurs, facilité de création de nouveaux documents, historique des
+            changements) doit être adoptée, il est possible de les rendre plus conviviaux de sorte à ce que les utilisateurs
+            habitués aux logiciels de traitement de texte traditionnels puissent s'y adapter sans grande difficulté.
+          </p>
+          <p>
+            Un système de commentaires légèrement plus élaboré que ceux employés dans les blogs s'ajoutera à chacun
+            de ces documents afin de permettre à tous d'apposer des annotations sur des parties spécifiques du
+            contenu. Contrairement à Wikipedia, il sera nécessaire de créer un compte sur le site de l'organisation
+            afin d'accéder aux fonctions d'édition et d'annotation — mais bien entendu la création d'un compte
+            sera ouverte à tous, et rendue rapide afin de minimiser l'effort nécessaire à la rédaction d'un
+            simple commentaire.
+          </p>
+        </section>
+        <section>
+          <h2>Organisation</h2>
+          <p>
+            <!-- XXX pourquoi légère, pourquoi utile -->
+          </p>
+          <p>
+            Afin de donner un cadre au projet, une organisation hôte (à but non-lucratif) doit être 
+            établie. Les besoins de celle-ci sont fortement limités, elle doit principalement se doter des moyens
+            d'assurer l'hébergement des outils qui permettent le fonctionnement du système. Dans un premier temps
+            une association loi 1901 dotée de quelques milliers d'euros peut suffire. S'y adjoignent des volontaires
+            compétents en technologies Web afin de mettre en place le minimum d'outillage nécessaire au départ.
+          </p>
+          <p>
+            Dans le but d'assurer une évolution continuelle et une qualité optimale de l'infrastructure du projet,
+            l'ensemble des logiciels produits dans son cadre se doivent d'être disponibles sous licence libre. Ceci
+            permettra de s'appuyer sur les compétences de la communauté des spécialistes de technologies Web qui
+            souhaitent contribuer à la politique. C'est une communauté riche et vivace.
+          </p>
+          <p>
+            En parallèle de l'outillage et des règles minimales organisant la vie des groupes de travail, il est
+            important que l'organisation se dote d'une documentation exprimant de façon claire et cohérente les
+            valeurs qui guident son action, et guident le travail de ses groupes. Le projet doit se poser comme
+            indépendant des contraintes partisanes, mais résolument dédié à la production de solutions concrètes,
+            fonctionnelles, efficaces, et réalistes. Il est ouvert à tous, sans discrimination aucune, mais fermera
+            la porte à ceux dont les actions cherchent délibérément à déranger son fonctionnement, ainsi qu'à
+            ceux qui porteront des propos haineux. Tout accord au sein d'un groupe s'effectue par consensus. Il faut
+            noter que le consensus n'est pas le compromis, il est le fruit de discussions cherchant à emporter la
+            conviction et non pas de marchandage.
+          </p>
+        </section>
+        <section>
+          <h2>Appel à commentaires</h2>
+          <p>
+            Une fois ces éléments en place et la machine lancée, ces règles, outils, et modalités de fonctionnement
+            pourront évoluer sous la responsabilité de la communauté créée autour du projet.
+          </p>
+          <p>
+            Mais cette mise en place, même dans une voilure relativement restreinte, représente un volume de travail
+            non-négligeable. Plutôt que de tout créer avant de tester le bon fonctionnement du système, il est
+            préférable de se confronter à la réalité au plus tôt. À cet effet, une expérimentation à minima utilisant
+            des outils et règles approximatifs sera rapidement lancée avec un à trois groupes travaillant sur des
+            sujets pouvant être traités dans un temps relativement court. Ceci permettra de raffiner le processus
+            avant de le généraliser.
+          </p>
+        </section>
         <!--
           - polity.coop
       
