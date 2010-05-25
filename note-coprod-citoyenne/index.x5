@@ -266,9 +266,9 @@
           En dehors de la sphère politique, plusieurs systèmes de coproduction se sont développés en accompagnement
           de la démocratisation progressive d'Internet au cours de ces dernière décennies. Ces systèmes ont
           en commun leur ouverture, laquelle se retrouve dans leurs noms: “<em>Open Source</em>”, “<em>Open Content</em>”, 
-          “<em>Open Standards</em>”. Ce n'est donc pas une coïncidence si nous assistons à la naissance du nouveau
-          label “<em>Open Government</em>” dont les contours effervescent se définissent peu à peu. Les détails de 
-          des fonctionnements de ces systèmes ouverts diffèrent cependant, nous les analyserons donc séparément 
+          “<em>Open Standards</em>”. Ce n'est donc pas une coïncidence si nous assistons à la naissance de deux nouveaux
+          labels “<em>Open Data</em>” “<em>Open Government</em>” dont les contours effervescent se définissent peu à peu. 
+          Les détails des fonctionnements de ces systèmes ouverts diffèrent cependant, nous les analyserons donc séparément 
           afin d'essayer d'en extraire les aspects essentiels.
         </p>
         <section>
@@ -396,7 +396,7 @@
         <section>
           <h2>La normalisation ouverte: W3C et IETF</h2>
           <p>
-            La normalisation est un vaste domaine, il existe des normes pour presque tout utilisées
+            La normalisation est un vaste domaine, il existe des normes pour presque tout, utilisées
             presque partout, et il est difficile de trouver un sujet ou une activité qui ne soient
             pas traités par un organisme de normalisation. S'ils ont en commun de produire des documents
             souvent complexes, techniques, et précis, les organismes de normalisation se révèlent 
@@ -410,7 +410,7 @@
             à un bureau dirigeant le droit de tout décider.
           </p>
           <p>
-            Traiter de tous les types de fonctionnement des organismes de normalisation prendrait demanderait
+            Traiter de tous les types de fonctionnement des organismes de normalisation demanderait
             un document d'une autre longueur et ne serait pas pertinent au sujet présent. Nous nous
             pencherons donc ici sur les méthodes déployées dans le cadre de la normalisation “ouverte”.
             Celle-ci a pour caractéristique principale de faire intervenir le plus possible une vaste
