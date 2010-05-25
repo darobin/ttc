@@ -345,10 +345,10 @@
             Le format de leur négociation est libre, mais un ensemble de règles et de recommandations
             existe auxquelles il est fréquent de se référer afin de parvenir à un accord. L'ensemble de
             ces règles de la simple étiquette (ou “Wikiquette”) aux principes fondamentaux serait trop longue
-            à décrire (et comme le reste du site, évolue constamment) mais deux valeurs sont invoquées
+            à décrire ici (et comme le reste du site, évolue constamment) mais deux valeurs sont invoquées
             plus fréquemment que les autres: d'une part l'adoption d'un point de vue neutre, qui demande
             une rédaction juste, proportionnée, et non-biaisée, et d'autre part la vérifiabilité de l'information
-            fournie. Sur cette base, beaucoup de désaccord sont réglés directement par les parties concernées.
+            fournie. Sur cette base, beaucoup de désaccords sont réglés directement par les parties concernées.
           </p>
           <p>
             Il est important de noter que ces discussions sont effectuées et archivées en public, de sorte à
@@ -361,7 +361,7 @@
           <p>
             Si toutefois les éditeurs ne parviennent pas à s'entendre par discussion entre eux, il leur 
             faut trouver un moyen d'avancer. Dans un premier temps, il est commun de chercher à impliquer
-            soit un tiers (ou d'un comité de tiers) communément accepté comme neutre qui pourra fournir 
+            soit un tiers (ou un comité de tiers) communément accepté comme neutre qui pourra fournir 
             une médiation à la discussion, soit une plus large participation communautaire pour bénéficier 
             d'autres points de vue.
           </p>
@@ -369,10 +369,10 @@
             En dernier recours, si toutes les tentatives de médiation ont échoué, il est possible d'avoir
             recours au Comité d'Arbitrage qui tranchera définitivement. Le comité est composé d'un petit
             nombre d'utilisateurs reconnus pour leur expérience et leur neutralité. Ce type de recours
-            est cependant exceptionnel — si ce n'était pas le cas le système se retrouverait en faillite.
+            est cependant exceptionnel — s'il était fréquent pas le cas le système se retrouverait en faillite.
           </p>
           <p>
-            Le projet Wikipedia peut donc être perçu comme une vaste bureaucratie participative produisant 
+            Le projet Wikipedia peut donc être perçu comme une vaste administration participative produisant 
             du contenu, lequel est souvent à la fois complexe et de qualité. C'est un exemple dont il
             faut apprendre pour alimenter la coproduction citoyenne, et c'est tout naturellement que
             les communautés s'intéressant à la gouvernance ouverte en font régulièrement un modèle.
@@ -385,13 +385,13 @@
           </p>
           <p>
             En effet, décrire est plus simple que créer. En reprenant les deux valeurs motrices du
-            consensus de Wikipedia que sont la neutralité du point de vue et la vérifiabilité, il
+            consensus de Wikipedia que sont la neutralité du point de vue et la vérifiabilité de l'information, il
             apparaît qu'elles se transposent mal au domaine politique. S'il est désirable qu'une
             approche coopérative de la politique soit non-partisane, une solution est par définition
             non-neutre car elle s'attaque à un problème. Pareillement, bien qu'ancrer une solution
             le plus fermement possible dans les connaissances disponibles sur un sujet particulier
             est recommandable, il est rarement possible de pouvoir vérifier complètement a priori
-            qu'une solution fonctionne effectivement.
+            qu'elle fonctionne effectivement.
           </p>
           <p>
             En conséquence, sans perdre de vue les avantages réels du modèle Wikipedia, nous analysons
@@ -413,11 +413,11 @@
             production, d'autres accepteront de publier tout ce que leurs membres décideront de publier; 
             certains travaillent à la lumière du jour, d'autres dans le plus grand secret; certains 
             prennent leurs décisions par voie électorale, d'autres par consensus, d'autres encore 
-            ont des niveaux de participation prédéfinis et réservent à un bureau dirigeant le droit 
-            de tout décider.
+            ont des niveaux de participation prédéfinis pour diverses classes de membres et réservent 
+            à un bureau dirigeant le droit de tout décider.
           </p>
           <p>
-            Traiter tous les types de fonctionnement des organismes de normalisation prendrait demanderait
+            Traiter de tous les types de fonctionnement des organismes de normalisation prendrait demanderait
             un document d'une autre longueur et ne serait pas pertinent au sujet présent. Nous nous
             pencherons donc ici sur les méthodes déployées dans le cadre de la normalisation “ouverte”.
             Celle-ci a pour caractéristique principale de faire intervenir le plus possible une vaste
@@ -429,17 +429,17 @@
             <dt>IETF (Internet Engineering Task Force)</dt>
             <dd>
               <p>
-                L'IETF s'occupe des standards propres au réseau Internet, comme par exemple le protocole
-                TCP/IP qui sous-tend les communications du réseau; DNS, qui décrit le système des noms de
-                domaines; les différentes normes qui ensemble font l'email; ou encore le FTP, et beaucoup
-                d'autres technologies moins connues du grand public.
+                L'<a href='http://www.ietf.org/'>IETF</a> s'occupe des standards propres au réseau Internet,
+                comme par exemple le protocole TCP/IP qui sous-tend les communications du réseau; DNS, qui 
+                décrit le système des noms de domaines; les différentes normes qui ensemble font l'email; 
+                ou encore le FTP, et beaucoup d'autres technologies moins connues du grand public.
               </p>
               <p>
                 Cette organisation n'a pas de membres formels mais est composée intégralement de volontaires
                 (naturellement, nombre d'entre eux sont financés par leurs employeurs pour effectuer ce
                 travail). Fondée en 1986 sous l'égide du gouvernement américain, c'est aujourd'hui une
                 branche de l'Internet Society, organisation à but non-lucratif qui cherche à promouvoir le
-                développement de l'Internet sous toutes ses formes (ils s'occupent aussi entre autres de
+                développement de l'Internet sous toutes ses formes (elle s'occupe aussi entre autres de
                 l'Internet Governance Forum).
               </p>
             </dd>
@@ -447,7 +447,7 @@
             <dd>
               <p>
                 Le <a href='http://www.w3.org/'>W3C</a> s'applique à définir les normes propres au Web, dont 
-                notamment HTML qui est le langage des pages; HTTP, le protocole qui permet aux navigateurs 
+                notamment HTML qui est le langage principal des pages; HTTP, le protocole qui permet aux navigateurs 
                 d'obtenir les informations désirées par leurs utilisateurs; et bien d'autres technologies 
                 (CSS, SVG, PNG, DOM, XML, etc.) qui sont utilisées à chaque instant par plusieurs milliards 
                 de personnes, souvent sans que ceux-ci ne le sachent.
@@ -455,7 +455,7 @@
               <p>
                 Plus structuré, le W3C est composé de membres payants (pour la plupart des sociétés privées)
                 dont les cotisations servent à financer une équipe de professionnels de la normalisation
-                qui aident les groupes travaillant sur une norme à produire des documents de meilleure
+                qui aident les groupes travaillant sur diverses normes à produire des documents de meilleure
                 qualité, si possible relativement rapidement. Ceci dit, la présence de membres payants
                 n'empêche pas une participation au travail ouverte à une large communauté de volontaires, et
                 les principaux groupes actifs aujourd'hui sont ouverts au public.
@@ -466,8 +466,8 @@
                 corriger les erreurs et de trouver des solutions aux problèmes rencontrés; la communauté
                 sait que le travail qu'elle fournit produira à terme une norme adhérant nécessairement aux 
                 valeurs fondamentales du W3C d'accès à tous via la gratuité de technologies sans royalties,
-                l'accessibilité indépendamment des handicaps, l'internationalisation qui garanti un 
-                fonctionnement dans toutes les langues et pour toutes les cultures, ou encore l'indépendance
+                d'accessibilité indépendamment des handicaps, d'internationalisation garantissant un 
+                fonctionnement dans toutes les langues et pour toutes les cultures, ou encore d'indépendance
                 vis-à-vis de tout éditeur logiciel particulier ou de toute plateforme spécifique.
               </p>
             </dd>
@@ -530,7 +530,7 @@
               qu'utilisées par exemple par Wikipedia, mais dans la pratique ce n'est qu'une formalisation de
               celles-ci. En effet, si un article Wikipedia peut avoir plusieurs centaines de contributeurs,
               on remarquera que la plupart du temps la part la plus importante du travail est effectuée par
-              un à trois intervenants.
+              un petit nombre d'intervenants.
             </dd>
             <dt>Le médiateur/animateur/directeur du groupe (Chair)</dt>
             <dd>
@@ -539,7 +539,7 @@
               particulier lui permettant de forcer le groupe ou ses membres à agir d'une façon ou d'une autre
               et son influence sur les décisions entérinée n'est pas plus importante que celle d'un autre
               participant. C'est avant tout une autorité morale respectée de tous, un <em>primus inter pares</em>
-              (premier parmi ses pairs) qui coordonne l'action collective; dans un groupe bien rôdé il arrive 
+              (premier parmi ses pairs) qui coordonne l'action collective; dans un groupe bien rodé il arrive 
               souvent qu'on ne le différencie des autres participants que lors de ses interventions administratives. 
             </dd>
           </dl>
@@ -552,7 +552,7 @@
             Le public intervient, lui, à tout moment. Les débats étant ouverts à tous, il est commun de voir des 
             participants du groupe et membres du public discuter entre eux directement sans qu'il y ait la moindre 
             distinction. L'éditeur maintient en permanence un brouillon de la spécification qu'il met à jour 
-            régulièrement, et le groupe publie à intervalle régulier des versions de travail. Ces publications 
+            régulièrement, et le groupe publie à intervalles réguliers des versions de travail. Ces publications 
             permettent au groupe de signaler qu'il a progressé dans son travail, et par là de solliciter des 
             commentaires spécifiques de la part du public. Il est aussi commun de demander à d'autres groupes 
             spécialisés sur d'autres domaines de fournir leurs commentaires et d'assister au développement de 

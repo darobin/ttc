@@ -60,8 +60,6 @@
                 return $("<span class='quote'></span>").html($(quotes[idx]).html());
             });
             $(".quote").before("“").after("”");
-            // add word count
-            this.wcount();
 
             // footnotes
             var $fn = $("<section id='footnotes' class='appendix'><h2>Notes</h2><ul/></section>");
@@ -86,6 +84,9 @@
                                 .end();
                 $fnls.append($bk);
             });
+
+            // add word count
+            this.wcount();
             
             // makeTOC
             var $ul = this.makeTOCAtLevel($("article"), [0], 1);
