@@ -10,10 +10,9 @@
     <!-- 
     XXX TODO
       - parler de la différence avec la démocratie directe?
-      - parler plus des outils. Notamment, les adapter à ce qui doit être coproduit. Pour des logiciels,
-        le modèle Open Source, pour le l'open data autre chose, pour la coproduction de politique, du texte structuré,
-        etc. Il faut parler de la possibilité, au sein de la même structure, de produire des loi comme des apps. Ce
-        doit être une boîte à outil de la coproduction citoyenne.
+      - polity.coop
+        Here Comes Everybody (Clay Shirky)
+          - The lesson from Manutius’s life is that the future belongs to those who take the present for granted.
     -->
     <article>
       <section>
@@ -771,20 +770,20 @@
         <section>
           <h2>Organisation</h2>
           <p>
-            <!-- XXX pourquoi légère, pourquoi utile -->
-          </p>
-          <p>
             Afin de donner un cadre au projet, une organisation hôte (à but non-lucratif) doit être 
             établie. Les besoins de celle-ci sont fortement limités, elle doit principalement se doter des moyens
             d'assurer l'hébergement des outils qui permettent le fonctionnement du système. Dans un premier temps
             une association loi 1901 dotée de quelques milliers d'euros peut suffire. S'y adjoignent des volontaires
             compétents en technologies Web afin de mettre en place le minimum d'outillage nécessaire au départ.
+            Le rôle de cette organisation se doit d'être le plus logistique possible, et elle ne doit en aucun
+            cas intervenir directement dans le travail des groupes.
           </p>
           <p>
             Dans le but d'assurer une évolution continuelle et une qualité optimale de l'infrastructure du projet,
-            l'ensemble des logiciels produits dans son cadre se doivent d'être disponibles sous licence libre. Ceci
-            permettra de s'appuyer sur les compétences de la communauté des spécialistes de technologies Web qui
-            souhaitent contribuer à la politique. C'est une communauté riche et vivace.
+            l'ensemble des logiciels produits dans son cadre se doivent d'être disponibles sous licence libre, probablement
+            de type MIT pour en encourager une diffusion et un usage largement dénués de contraintes. Ceci permettra 
+            de s'appuyer sur les compétences de la communauté des spécialistes de technologies Web qui souhaitent 
+            contribuer à la politique. C'est une communauté riche et vivace.
           </p>
           <p>
             En parallèle de l'outillage et des règles minimales organisant la vie des groupes de travail, il est
@@ -793,9 +792,10 @@
             indépendant des contraintes partisanes, mais résolument dédié à la production de solutions concrètes,
             fonctionnelles, efficaces, et réalistes. Il est ouvert à tous, sans discrimination aucune, mais fermera
             la porte à ceux dont les actions cherchent délibérément à déranger son fonctionnement, ainsi qu'à
-            ceux qui porteront des propos haineux. Tout accord au sein d'un groupe s'effectue par consensus. Il faut
-            noter que le consensus n'est pas le compromis, il est le fruit de discussions cherchant à emporter la
-            conviction et non pas de marchandage.
+            ceux qui se feront porteurs de propos haineux. Tout accord au sein d'un groupe s'effectue par consensus,
+            élaboré librement dans le cadre de règles les plus simples possibles. Il faut noter que le consensus 
+            n'est pas le compromis, il est le fruit de discussions cherchant à emporter la conviction et non pas 
+            de marchandage.
           </p>
         </section>
         <section>
@@ -806,20 +806,20 @@
           </p>
           <p>
             Mais cette mise en place, même dans une voilure relativement restreinte, représente un volume de travail
-            non-négligeable. Plutôt que de tout créer avant de tester le bon fonctionnement du système, il est
+            non négligeable. Plutôt que de tout créer avant de tester le bon fonctionnement du système, il est
             préférable de se confronter à la réalité au plus tôt. À cet effet, une expérimentation à minima utilisant
             des outils et règles approximatifs sera rapidement lancée avec un à trois groupes travaillant sur des
             sujets pouvant être traités dans un temps relativement court. Ceci permettra de raffiner le processus
             avant de le généraliser.
           </p>
+          <p>
+            Nous vous invitons donc à nous contacter pour nous faire part de vos commentaires, de la façon dont
+            vous aimeriez voir un tel projet évoluer, et de vos propositions de sujets pour les groupes d'essai.
+            Cet appel entendu, nous laisserons le mot de conclusion à Clay Shirky: <q>La révolution ne se produit 
+            pas quand la société adopte de nouvelles technologies — elle se produit quand elle adopte de nouveaux 
+            comportements.</q>
+          </p>
         </section>
-        <!--
-          - polity.coop
-      
-            Here Comes Everybody (Clay Shirky)
-              - The lesson from Manutius’s life is that the future belongs to those who take the present for granted.
-              - Revolution doesn’t happen when society adopts new technologies—it happens when society adopts new behaviors.
-        -->
       </section>
     </article>
   </body>
