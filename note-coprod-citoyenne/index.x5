@@ -425,7 +425,8 @@
                 L'<a href='http://www.ietf.org/'>IETF</a> s'occupe des standards propres au réseau Internet,
                 comme par exemple le protocole TCP/IP qui sous-tend les communications du réseau&#x202f;; DNS, qui 
                 décrit le système des noms de domaines&#x202f;; les différentes normes qui ensemble font l'email&#x202f;; 
-                ou encore le FTP, et beaucoup d'autres technologies moins connues du grand public.
+                ou encore le HTTP qui permet la transmission des données sur le Web, et beaucoup d'autres 
+                technologies moins connues du grand public.
               </p>
               <p>
                 Cette organisation n'a pas de membres formels mais est composée intégralement de volontaires
@@ -637,7 +638,7 @@
         <p>
           Quand c'est nécessaire, <em>une communauté est capable de mettre en place son propre filtrage</em>.
           S'il est inévitable que l'ouverture à tous d'un projet amène nécessairement son lot de personnes
-          indésirables qui chercheront à dérailler le processus, l'expérience montre que des communautés
+          indésirables qui chercheront à faire dérailler le processus, l'expérience montre que des communautés
           créées autour d'un projet sont à même, à moindre coût pour elles, de mettre en place un filtrage
           leur permettant d'éviter ces dérangements soit en raisonnant avec les personnes en question, soit
           en les excluant des outils utilisés.
