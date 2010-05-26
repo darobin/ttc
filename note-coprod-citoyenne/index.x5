@@ -2,7 +2,7 @@
 <html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
   <head>
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
-    <title>Coproduction citoyenne: de l'idée à la loi</title>
+    <title>Coproduction citoyenne&#x202f;: de l'idée à la loi</title>
     <script src='../js/jquery-1.4.1.min.js' type='text/javascript' charset='utf-8' class='remove'></script>
     <script src='../js/live-x5.js' type='text/javascript' charset='utf-8' class='remove'></script>
   </head>
@@ -40,7 +40,7 @@
           réelle coproduction citoyenne.
         </p>
         <p>
-          Qu'entendons-nous par “coproduction citoyenne”? C'est un service ou un contenu axé sur la Cité et
+          Qu'entendons-nous par “coproduction citoyenne”&#x202f;? C'est un service ou un contenu axé sur la Cité et
           produit par les citoyens soit simplement entre eux, soit en rapport direct avec une administration. Certaines
           formes, notamment associatives, existent depuis longtemps et sont bien ancrées dans le tissu social.
           Mais le degré et la simplicité de coordination, ainsi que la capacité de diffusion, rendus possible 
@@ -139,14 +139,14 @@
         <section>
           <h2>La CooPol</h2>
           <p>
-            L'objectif de la CooPol est simple: être un réseau social pour <q>tous ceux qui veulent débattre et 
+            L'objectif de la CooPol est simple&#x202f;: être un réseau social pour <q>tous ceux qui veulent débattre et 
             agir à gauche</q>, lequel veut fournir <q>une nouvelle génération d'outils d’organisation et de 
             mobilisation politique pour échanger en ligne et agir sur le terrain.</q> L'inscription est ouverte
             à tous mais militants du Parti Socialiste et simples sympathisants ne verront pas le même contenu.
           </p>
           <p>
-            Les fonctions disponibles à tous en font un site social classique: amis (ou <q>coopains</q>),
-            groupes, fil d'information sur ses amis, messages, blog, évènements; et il est aussi possible
+            Les fonctions disponibles à tous en font un site social classique&#x202f;: amis (ou <q>coopains</q>),
+            groupes, fil d'information sur ses amis, messages, blog, évènements&#x202f;; et il est aussi possible
             de rejoindre des sections virtuelles du PS. Le site se démarque surtout de par les outils qui
             ne sont accessibles qu'aux militants. Par exemple, durant les régionales de 2010 le fichier
             des abstentionnistes a été utilisé pour permettre aux militants de savoir dans quelles zones
@@ -171,17 +171,17 @@
             Les Créateurs de Possibles est un site édité par l'Union pour un Mouvement Populaire (UMP)
             qui se présente comme <q>un réseau citoyen</q> permettant à chacun de <q>passer à l'action</q>, 
             en théorie sans requérir une quelconque affiliation politique. Il propose lui aussi des fonctions
-            classiques de site social: amis, messages, ou encore organisation d'évènements. Mais une
-            application majeure régit le site: les initiatives. Celles-ci se décrivent d'un titre, d'une photo
+            classiques de site social&#x202f;: amis, messages, ou encore organisation d'évènements. Mais une
+            application majeure régit le site&#x202f;: les initiatives. Celles-ci se décrivent d'un titre, d'une photo
             ou vidéo, et d'un texte de 600 caractères maximum. Une fois une initiative créée, il est possible 
             d'y inviter ses contacts et d'autres membres peuvent la rejoindre ou témoigner de son utilité. 
             On dispose de l'option d'envoyer une lettre à un responsable politique où l'on explique 
             l'importance de cette initiative et divers outils sont disponibles pour organiser la vie de 
-            l'initiative en dehors du site: lancer un porte-à-porte, une diffusion de tracts, une série d'appels
+            l'initiative en dehors du site&#x202f;: lancer un porte-à-porte, une diffusion de tracts, une série d'appels
             téléphoniques, ou encore une réunion sur le sujet.
           </p>
           <p>
-            Deux aspects de ce site posent problème. D'une part, le cadre partisan est flou: il est difficile
+            Deux aspects de ce site posent problème. D'une part, le cadre partisan est flou&#x202f;: il est difficile
             de savoir si ces initiatives de <q>citoyens en action</q> sont appelées à être proches de l'UMP
             ou non. Cette confusion tend à limiter à la fois les contributions émanants d'internautes ne
             souhaitant pas être affiliés à ce parti, et le sympathisants de l'UMP qui ne savent s'ils doivent
@@ -212,7 +212,7 @@
             (<q>Social tools don’t create collective action — they merely remove the obstacles to it.</q>).
             Si aucune des offres existantes n'a libéré la coproduction citoyenne, c'est qu'elles n'ont
             pas su éliminer ces obstacles. Pour qu'un outil social fonctionne, il faut qu'il réussisse
-            sur deux tableaux:
+            sur deux tableaux&#x202f;:
           </p>
           <dl>
             <dt>Le contrat</dt>
@@ -265,9 +265,9 @@
         <p>
           En dehors de la sphère politique, plusieurs systèmes de coproduction se sont développés en accompagnement
           de la démocratisation progressive d'Internet au cours de ces dernière décennies. Ces systèmes ont
-          en commun leur ouverture, laquelle se retrouve dans leurs noms: “<em>Open Source</em>”, “<em>Open Content</em>”, 
+          en commun leur ouverture, laquelle se retrouve dans leurs noms&#x202f;: “<em>Open Source</em>”, “<em>Open Content</em>”, 
           “<em>Open Standards</em>”. Ce n'est donc pas une coïncidence si nous assistons à la naissance de deux nouveaux
-          labels “<em>Open Data</em>” “<em>Open Government</em>” dont les contours effervescent se définissent peu à peu. 
+          labels “<em>Open Data</em>” et “<em>Open Government</em>” dont les contours effervescent se définissent peu à peu. 
           Les détails des fonctionnements de ces systèmes ouverts diffèrent cependant, nous les analyserons donc séparément 
           afin d'essayer d'en extraire les aspects essentiels.
         </p>
@@ -289,8 +289,8 @@
             Au départ, un programmeur produit la première version d'un logiciel, et en publie le code
             source pour le bénéfice de tous. Si son projet suscite l'intérêt d'autres programmeurs, ils
             le rejoindront dans le but de faire évoluer ce logiciel. Cette communauté s'organise généralement
-            autour de deux outils principaux: d'une part, une liste de discussion par email permettant au
-            groupe de coordonner ses actions et de résoudre les problèmes rencontrés lors du développement;
+            autour de deux outils principaux&#x202f;: d'une part, une liste de discussion par email permettant au
+            groupe de coordonner ses actions et de résoudre les problèmes rencontrés lors du développement&#x202f;;
             d'autre part un serveur sur lequel réside le code source et qui permet à chaque participant
             de le modifier progressivement, de façon cohérente.
           </p>
@@ -300,7 +300,7 @@
             l'initiateur du projet (on parle dans ce cas de “dictateur bienveillant”).
           </p>
           <p>
-            Le contrat tacite est simple: chacun améliore un produit que tous utilisent, et la licence
+            Le contrat tacite est simple&#x202f;: chacun améliore un produit que tous utilisent, et la licence
             garantit que nul ne pourra se l'approprier en privant les autres participants de leurs contributions.
             De surcroît, c'est souvent un très bon moyen pour chaque contributeur de se faire une bonne
             réputation, ainsi que d'apprendre de nouvelles techniques en partageant ses connaissances propres.
@@ -319,7 +319,7 @@
           <h2>Wikipedia et l'approche Open Content</h2>
           <p>
             En lisant les articles de Wikipedia, beaucoup utilisateurs pensent probablement que ceux-ci
-            constituent le plus gros du contenu du site; et en cliquant sur “modifier”, qu'ils accèdent 
+            constituent le plus gros du contenu du site&#x202f;; et en cliquant sur “modifier”, qu'ils accèdent 
             au niveau le plus avancé et le plus profond de ce système. Ces impressions sont fausses. La 
             majorité du contenu de Wikipedia se trouve dans les pages administratives qui soutiennent la
             création du contenu, notamment les pages qui servent aux contributeurs à discuter entre eux 
@@ -339,7 +339,7 @@
             existe auxquelles il est fréquent de se référer afin de parvenir à un accord. L'ensemble de
             ces règles de la simple étiquette (ou “Wikiquette”) aux principes fondamentaux serait trop longue
             à décrire ici (et comme le reste du site, évolue constamment) mais deux valeurs sont invoquées
-            plus fréquemment que les autres: d'une part l'adoption d'un point de vue neutre, qui demande
+            plus fréquemment que les autres&#x202f;: d'une part l'adoption d'un point de vue neutre, qui demande
             une rédaction juste, proportionnée, et non-biaisée, et d'autre part la vérifiabilité de l'information
             fournie. Sur cette base, beaucoup de désaccords sont réglés directement par les parties concernées.
           </p>
@@ -390,21 +390,21 @@
             En conséquence, sans perdre de vue les avantages réels du modèle Wikipedia, nous analysons
             un troisième système de production coopérative dont le but — bâtir un consensus autour
             d'une solution nouvelle à un problème collectivement constaté — est plus proche du domaine
-            politique: la normalisation ouverte.
+            politique&#x202f;: la normalisation ouverte.
           </p>
         </section>
         <section>
-          <h2>La normalisation ouverte: W3C et IETF</h2>
+          <h2>La normalisation ouverte&#x202f;: W3C et IETF</h2>
           <p>
             La normalisation est un vaste domaine, il existe des normes pour presque tout, utilisées
             presque partout, et il est difficile de trouver un sujet ou une activité qui ne soient
             pas traités par un organisme de normalisation. S'ils ont en commun de produire des documents
             souvent complexes, techniques, et précis, les organismes de normalisation se révèlent 
             extrêmement variés dans leurs modes de fonctionnement. Certains sont nationaux ou issus de 
-            traités internationaux, d'autres sont des groupements privés de sociétés ou de personnes; 
+            traités internationaux, d'autres sont des groupements privés de sociétés ou de personnes&#x202f;; 
             certains ont des valeurs spécifiques qu'ils entendent mettre en œuvre au travers de leur 
-            production, d'autres accepteront de publier tout ce que leurs membres décideront de publier; 
-            certains travaillent à la lumière du jour, d'autres dans le plus grand secret; certains 
+            production, d'autres accepteront de publier tout ce que leurs membres décideront de publier&#x202f;; 
+            certains travaillent à la lumière du jour, d'autres dans le plus grand secret&#x202f;; certains 
             prennent leurs décisions par voie électorale, d'autres par consensus, d'autres encore 
             ont des niveaux de participation prédéfinis pour diverses classes de membres et réservent 
             à un bureau dirigeant le droit de tout décider.
@@ -416,15 +416,15 @@
             Celle-ci a pour caractéristique principale de faire intervenir le plus possible une vaste
             communauté volontaire, donc de travailler largement en public, et de résoudre ses désaccords 
             par voie de consensus. Plus spécifiquement, nous nous basons sur le fonctionnement de deux
-            organismes de normalisation ouverte aux propriétés différentes:
+            organismes de normalisation ouverte aux propriétés différentes&#x202f;:
           </p>
           <dl>
             <dt>IETF (Internet Engineering Task Force)</dt>
             <dd>
               <p>
                 L'<a href='http://www.ietf.org/'>IETF</a> s'occupe des standards propres au réseau Internet,
-                comme par exemple le protocole TCP/IP qui sous-tend les communications du réseau; DNS, qui 
-                décrit le système des noms de domaines; les différentes normes qui ensemble font l'email; 
+                comme par exemple le protocole TCP/IP qui sous-tend les communications du réseau&#x202f;; DNS, qui 
+                décrit le système des noms de domaines&#x202f;; les différentes normes qui ensemble font l'email&#x202f;; 
                 ou encore le FTP, et beaucoup d'autres technologies moins connues du grand public.
               </p>
               <p>
@@ -440,8 +440,8 @@
             <dd>
               <p>
                 Le <a href='http://www.w3.org/'>W3C</a> s'applique à définir les normes propres au Web, dont 
-                notamment HTML qui est le langage principal des pages; HTTP, le protocole qui permet aux navigateurs 
-                d'obtenir les informations désirées par leurs utilisateurs; et bien d'autres technologies 
+                notamment HTML qui est le langage principal des pages&#x202f;; HTTP, le protocole qui permet aux navigateurs 
+                d'obtenir les informations désirées par leurs utilisateurs&#x202f;; et bien d'autres technologies 
                 (CSS, SVG, PNG, DOM, XML, etc.) qui sont utilisées à chaque instant par plusieurs milliards 
                 de personnes, souvent sans que ceux-ci ne le sachent.
               </p>
@@ -456,7 +456,7 @@
               <p>
                 Ce partenariat entre industriels et communauté est possible parce que les deux y trouvent
                 leur compte. Les industriels bénéficient d'un vaste corps d'expérience permettant de
-                corriger les erreurs et de trouver des solutions aux problèmes rencontrés; la communauté
+                corriger les erreurs et de trouver des solutions aux problèmes rencontrés&#x202f;; la communauté
                 sait que le travail qu'elle fournit produira à terme une norme adhérant nécessairement aux 
                 valeurs fondamentales du W3C d'accès à tous via la gratuité de technologies sans royalties,
                 d'accessibilité indépendamment des handicaps, d'internationalisation garantissant un 
@@ -475,13 +475,13 @@
           <p>
             Dans la pratique, comme l'explique clairement le document décrivant l'organisation de la normalisation à 
             l'IETF (<a href='http://www.ietf.org/rfc/rfc2026.txt'>The Internet Standards Process</a>),
-            les détails de ce processus sont plus complexes du fait de:
+            les détails de ce processus sont plus complexes du fait de&#x202f;:
           </p>
           <blockquote>
             <ol>
-              <li>la difficulté qu'il y a à créer des spécifications de haute qualité technique;</li>
-              <li>la nécessité qu'il y a de prendre en compte les intérêts de toutes les parties concernées;</li>
-              <li>l'importance d'établir un vaste consensus au sein de la communauté; et</li>
+              <li>la difficulté qu'il y a à créer des spécifications de haute qualité technique&#x202f;;</li>
+              <li>la nécessité qu'il y a de prendre en compte les intérêts de toutes les parties concernées&#x202f;;</li>
+              <li>l'importance d'établir un vaste consensus au sein de la communauté&#x202f;; et</li>
               <li>la difficulté à évaluer l'utilité d'une spécification pour la communauté Internet.</li>
             </ol>
           </blockquote>
@@ -502,7 +502,7 @@
           </p>
           <p>
             Si tous les participants sont égaux, le groupe se structure généralement autour de certains
-            rôles lui permettant de mieux s'organiser en distribuant le travail:
+            rôles lui permettant de mieux s'organiser en distribuant le travail&#x202f;:
           </p>
           <dl>
             <dt>Le représentant de l'organisme (Team Contact)</dt>
@@ -532,7 +532,7 @@
               particulier lui permettant de forcer le groupe ou ses membres à agir d'une façon ou d'une autre
               et son influence sur les décisions entérinée n'est pas plus importante que celle d'un autre
               participant. C'est avant tout une autorité morale respectée de tous, un <em>primus inter pares</em>
-              (premier parmi ses pairs) qui coordonne l'action collective; dans un groupe bien rodé il arrive 
+              (premier parmi ses pairs) qui coordonne l'action collective&#x202f;; dans un groupe bien rodé il arrive 
               souvent qu'on ne le différencie des autres participants que lors de ses interventions administratives. 
             </dd>
           </dl>
@@ -553,7 +553,7 @@
           </p>
           <p>
             Une fois que ce processus itératif a produit un document qui emporte le consensus du groupe et de
-            sa communauté, le travail n'est pas pour autant terminé: il faut encore s'assurer que la spécification
+            sa communauté, le travail n'est pas pour autant terminé&#x202f;: il faut encore s'assurer que la spécification
             peut effectivement être utilisée et déployée dans la pratique. Une phase de test, dont les détails
             dépendent de la technologie concernée, est amorcée. Celle-ci doit valider que plusieurs personnes
             travaillant indépendamment peuvent, sans l'aide du groupe, faire sens et appliquer la spécification
@@ -607,7 +607,7 @@
           sur la base de listes d'“amis”, qu'elles soient réciproques (Facebook) ou unidirectionnelles
           (Twitter). Si ceux-ci peuvent, en fournissant un véhicule à la dissémination et à la 
           communication, permettre une coordination des actions des partis et de la société civile bien 
-          plus efficace qu'auparavant, ils ne semblent pas adaptés à la coproduction: il n'y a pas de 
+          plus efficace qu'auparavant, ils ne semblent pas adaptés à la coproduction&#x202f;: il n'y a pas de 
           réseau social sur lequel s'est réalisée une coproduction d'envergure, et à l'inverse les systèmes 
           de coproduction réussis ne sont pas des réseaux sociaux, du moins pas au sens commun que revêt ce 
           terme. L'approche des systèmes de coproduction est de définir des projets (un composant logiciel, 
@@ -649,7 +649,7 @@
           système, et de retracer l'évolution du consensus. Ce sont les éléments constitutifs de la 
           confiance qu'ont les participants dans la coproduction. Pour reprendre Clay Shirky répondant à
           Juvénal, ce type d'approche s'attaque à <q>une des questions les plus fondamentales de la philosophie
-          politique: Qui garde les gardiens eux-mêmes? La réponse est tout le monde.</q>
+          politique&#x202f;: Qui garde les gardiens eux-mêmes&#x202f;? La réponse est tout le monde.</q>
         </p>
         <p>
           De plus, <em>un projet de coproduction doit avoir une éthique claire et cohérente</em>. Pour l'Open
@@ -710,7 +710,7 @@
             groupe qui le désire. Il est utile que la mise en place de chaque sujet soit coordonnée 
             pour éviter les doublons, les hors-sujet, et maintenir une cohérence minimale. Le mécanisme de cette
             coordination devra à terme être communautaire (l'appréciation en étant laissée à une méritocratie 
-            émergente); au départ, les initiateurs du projet devront remplir cet office.
+            émergente)&#x202f;; au départ, les initiateurs du projet devront remplir cet office.
           </p>
           <p>
             Les groupes doivent opérer de façon indépendante les uns des autres. Il est notamment important que des 
@@ -815,7 +815,7 @@
           <p>
             Nous vous invitons donc à nous contacter pour nous faire part de vos commentaires, de la façon dont
             vous aimeriez voir un tel projet évoluer, et de vos propositions de sujets pour les groupes d'essai.
-            Cet appel entendu, nous laisserons le mot de conclusion à Clay Shirky: <q>La révolution ne se produit 
+            Cet appel entendu, nous laisserons le mot de conclusion à Clay Shirky&#x202f;: <q>La révolution ne se produit 
             pas quand la société adopte de nouvelles technologies — elle se produit quand elle adopte de nouveaux 
             comportements.</q>
           </p>
