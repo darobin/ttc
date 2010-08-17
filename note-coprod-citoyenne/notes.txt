@@ -3,11 +3,11 @@ FINAL EDIT:
 
 	✓ Serge's comments?
 	✓ Hannes on IETF/IAB/etc.
-	- merge IETF and W3C, be closer to reality on IETF
-	- mention Generation 2.0
+	✓ merge IETF and W3C, be closer to reality on IETF
+	✓ mention Generation 2.0
 	✓ the DARD is dead — explain why
 	- prepare summary
-	- CooPol now does coprod a little
+	✓ CooPol now does coprod a little
 	✓ print at shop, multiple copies to get feedback
 
 ====
