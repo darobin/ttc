@@ -6,17 +6,18 @@ FINAL EDIT:
 	- merge IETF and W3C, be closer to reality on IETF
 	- mention Generation 2.0
 	✓ the DARD is dead — explain why
-	- how does this link to OpenData and other related efforts
 	- prepare summary
+	- CooPol now does coprod a little
 	✓ print at shop, multiple copies to get feedback
 
 ====
 
 XXX TODO
-  - parler de la différence avec la démocratie directe?
-  - polity.coop
-    Here Comes Everybody (Clay Shirky)
-      - The lesson from Manutius’s life is that the future belongs to those who take the present for granted.
+  	- parler de la différence avec la démocratie directe?
+	- how does this link to OpenData and other related efforts
+  	- polity.coop
+    	Here Comes Everybody (Clay Shirky)
+      	- The lesson from Manutius’s life is that the future belongs to those who take the present for granted.
 
 
 

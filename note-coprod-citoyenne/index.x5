@@ -119,7 +119,8 @@
         <p>
           Il existe dans le paysage politique français plusieurs sites, principalement (mais pas uniquement)
           produits par les partis politiques, qui s'essaient à explorer ce territoire nouveau de la politique
-          sur le Web. Ils s'attaquent à cette question par deux angles qui sont d'une part la création d'un
+          sur le Web et à investir l'espace des pratiques politiques à venir de la “Génération 2.0”. Ils 
+          s'attaquent à cette question par deux angles qui sont d'une part la création d'un
           réseau social autour d'un parti ou d'une famille politique, et d'autre part l'élaboration par les
           citoyens de propositions ouvertes sur les sujets de leurs choix. Plutôt que de les passer tous en
           revue, nous nous limiterons à deux sites représentatifs de ces tendances que sont
@@ -144,14 +145,14 @@
             ne sont accessibles qu'aux militants. Par exemple, durant les régionales de 2010 le fichier
             des abstentionnistes a été utilisé pour permettre aux militants de savoir dans quelles zones
             géographiques il pouvaient avoir le plus d'influence en motivant les électeurs à se déplacer.
-            Par contre, bien que la page d'accueil mentionne la coproduction, aucun outillage afférent
-            n'est proposé et les capacités rédactionnelles fournies ne permettent pas de collaborer afin
-            d'élaborer des propositions complexes.
+            Par contre, bien que la page d'accueil mentionne la coproduction, l'outillage afférent proposé
+            n'en est encore qu'à ses débuts et devra évoluer avant de permettre une collaboration sur l'élaboration
+            de propositions complexes.
           </p>
           <p>
-            Il en ressort que la CooPol, dans son incarnation actuelle, est peut-être mal nommée. Ce n'est 
-            pas tant une coopérative politique au sens d'un organisme coopératif produisant des solutions, mais
-            plutôt une modernisation du Parti Socialiste permettant de mieux coordonner ses militants et 
+            Il en ressort que la CooPol, dans son incarnation actuelle, est pour le moment peut-être mal nommée. Ce n'est 
+            pas encore tant une coopérative politique au sens d'un organisme coopératif produisant des solutions,
+            qu'une modernisation du Parti Socialiste permettant de mieux coordonner ses militants et 
             sympathisants dans une optique de logistique de campagne plus flexible grâce à de meilleurs moyens 
             d'auto-organisation et plus englobante en cela qu'elle facilite les contributions de militants
             moins engagés. Cette évolution des partis n'est pas concurrente à l'idée d'une coproduction
@@ -177,7 +178,7 @@
             Deux aspects de ce site posent problème. D'une part, le cadre partisan est flou&#x202f;: il est difficile
             de savoir si ces initiatives de <q>citoyens en action</q> sont appelées à être proches de l'UMP
             ou non. Cette confusion tend à limiter à la fois les contributions émanants d'internautes ne
-            souhaitant pas être affiliés à ce parti, et le sympathisants de l'UMP qui ne savent s'ils doivent
+            souhaitant pas être affiliés à ce parti, et les sympathisants de l'UMP qui ne savent s'ils doivent
             orienter leurs propositions de façon générale ou partisane.
           </p>
           <p>
@@ -200,7 +201,8 @@
         <section>
           <h2>Problèmes constatés</h2>
           <p>
-            Comme l'explique Clay Shirky dans <cite>Here Comes Everybody</cite>, <q>les outils sociaux
+            Comme l'explique le spécialiste des effets sociaux et économiques de l'Internet Clay Shirky 
+            dans <cite>Here Comes Everybody</cite>, <q>les outils sociaux
             ne créent pas l'action collective — ils ne font qu'éliminer les obstacles qui l'empêchent</q>
             (<q>Social tools don’t create collective action — they merely remove the obstacles to it.</q>).
             Si aucune des offres existantes n'a libéré la coproduction citoyenne, c'est qu'elles n'ont
@@ -423,7 +425,7 @@
                 technologies moins connues du grand public.
               </p>
               <p>
-                Cette organisation n'a pas de membres formels mais est composée intégralement de volontaires
+                Cette organisation est composée intégralement de volontaires
                 (naturellement, nombre d'entre eux sont financés par leurs employeurs pour effectuer ce
                 travail). Fondée en 1986 sous l'égide du gouvernement américain, c'est aujourd'hui une
                 branche de l'Internet Society, organisation à but non-lucratif qui cherche à promouvoir le
@@ -441,7 +443,7 @@
                 de personnes, souvent sans que ceux-ci ne le sachent.
               </p>
               <p>
-                Plus structuré, le W3C est composé de membres payants (pour la plupart des sociétés privées)
+                Différemment structuré, le W3C est composé de membres payants (pour la plupart des sociétés privées)
                 dont les cotisations servent à financer une équipe de professionnels de la normalisation
                 qui aident les groupes travaillant sur diverses normes à produire des documents de meilleure
                 qualité, si possible relativement rapidement. Ceci dit, la présence de membres payants
