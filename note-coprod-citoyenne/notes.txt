@@ -1,4 +1,25 @@
 
+FINAL EDIT:
+
+	✓ Serge's comments?
+	✓ Hannes on IETF/IAB/etc.
+	- merge IETF and W3C, be closer to reality on IETF
+	- mention Generation 2.0
+	- the DARD is dead — explain why
+	- how does this link to OpenData and other related efforts
+	- prepare summary
+	✓ print at shop, multiple copies to get feedback
+
+====
+
+XXX TODO
+  - parler de la différence avec la démocratie directe?
+  - polity.coop
+    Here Comes Everybody (Clay Shirky)
+      - The lesson from Manutius’s life is that the future belongs to those who take the present for granted.
+
+
+
 TITRE:
 	- pour le moment j'ai pris "Coproduction citoyenne: De l'idée à la loi", je me demande s'il ne
 	  faudrait pas plutôt dire "de l'idée à l'action" histoire de ne pas nécessairement orienter ça
