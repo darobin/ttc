@@ -5,7 +5,7 @@ FINAL EDIT:
 	✓ Hannes on IETF/IAB/etc.
 	- merge IETF and W3C, be closer to reality on IETF
 	- mention Generation 2.0
-	- the DARD is dead — explain why
+	✓ the DARD is dead — explain why
 	- how does this link to OpenData and other related efforts
 	- prepare summary
 	✓ print at shop, multiple copies to get feedback
