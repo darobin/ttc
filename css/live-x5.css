@@ -114,6 +114,15 @@ blockquote::after {
     vertical-align: super;
 }
 
+.meta {
+    font-style: italic;
+    text-align: right;
+}
+
+.notTranslated {
+    color:  #ddd;
+}
+
 @media print {
     html, body {
         background: #fff;

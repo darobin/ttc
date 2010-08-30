@@ -49,11 +49,18 @@
             // add CSS and title
             $("head").append($("<link/>", { rel: "stylesheet", media: "all", href: "../css/live-x5.css" }));
             var tits = document.title.split(":");
-            $("article").prepend("<h1></h1>")
-                        .find("h1")
-                            .append(tits[0] + ":")
-                            .append("<br/>")
-                            .append(tits[1]);
+            if (tits.length == 2) {
+                $("article").prepend("<h1></h1>")
+                            .find("h1")
+                                .append(tits[0] + ":")
+                                .append("<br/>")
+                                .append(tits[1]);
+            }
+            else {
+                $("article").prepend("<h1></h1>")
+                            .find("h1")
+                                .append(tits[0]);
+            }
             // make quotes work 
             var quotes = $("q");
             quotes.replaceWith(function (idx) {
@@ -62,28 +69,52 @@
             $(".quote").before("“").after("”");
 
             // footnotes
-            var $fn = $("<section id='footnotes' class='appendix'><h2>Notes</h2><ul/></section>");
-            var $fnls = $fn.find("ul");
+            var $fn = $("<section id='footnotes' class='appendix'><h2>Notes</h2><dl/></section>");
+            var $fnls = $fn.find("dl");
             $("article").append($fn);
-            $("a[href^='http:']").each(function (i, lnk) {
-                var $lnk = $(lnk);
+            $("aside").each(function (i, asd) {
+                var $asd = $(asd);
                 var num = i + 1;
-                var $to = $("<span class='foot'>[<a></a>]</span>")
+                var $to = $("<span class='foot'><a></a></span>")
                                 .find("a")
                                     .text(num)
                                     .attr({href: "#fn-" + num, id: "back-" + num })
                                 .end();
-                $lnk.after($to);
-                var $bk = $("<li><a/> <span></span></li>")
+                $asd.after($to);
+                var $bk = $("<dt><a/></dt>")
                                 .find("a")
-                                    .text("^" + num)
+                                    .text(num)
                                     .attr({href: "#back-" + num, id: "fn-" + num })
-                                .end()
-                                .find("span")
-                                    .text($lnk.attr("href"))
                                 .end();
+                var $dd = $("<dd/>");
+                $asd.contents().clone().appendTo($dd);
+                $asd.remove();
                 $fnls.append($bk);
+                $fnls.append($dd);
             });
+            // XXX this is the old link-replacement code
+            // var $fn = $("<section id='footnotes' class='appendix'><h2>Notes</h2><ul/></section>");
+            // var $fnls = $fn.find("ul");
+            // $("article").append($fn);
+            // $("a[href^='http:']").each(function (i, lnk) {
+            //     var $lnk = $(lnk);
+            //     var num = i + 1;
+            //     var $to = $("<span class='foot'>[<a></a>]</span>")
+            //                     .find("a")
+            //                         .text(num)
+            //                         .attr({href: "#fn-" + num, id: "back-" + num })
+            //                     .end();
+            //     $lnk.after($to);
+            //     var $bk = $("<li><a/> <span></span></li>")
+            //                     .find("a")
+            //                         .text("^" + num)
+            //                         .attr({href: "#back-" + num, id: "fn-" + num })
+            //                     .end()
+            //                     .find("span")
+            //                         .text($lnk.attr("href"))
+            //                     .end();
+            //     $fnls.append($bk);
+            // });
 
             // add word count
             this.wcount();
@@ -93,7 +124,8 @@
             if ($ul) {
                 var $toc = $("<section id='toc' class='introductory'/>").append("<h2>Table des matières</h2>")
                                                    .append($ul);
-                $("article h1:first").after($toc);
+                if ($("article div.meta").length > 0) $("article div.meta").after($toc);
+                else                                  $("article h1:first").after($toc);
             }
             
             // remove things we don't want to keep
